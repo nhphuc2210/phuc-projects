@@ -1,0 +1,523 @@
+Description,Id,ExternalId
+01-600 Ketchikan No. 1,1,01-600
+01-610 Ketchikan No. 2,2,01-610
+01-620 Ketchikan No. 3,3,01-620
+01-640 North Tongass No. 1,4,01-640
+01-650 North Tongass No. 2,5,01-650
+01-660 Saxman,6,01-660
+01-670 South Tongass,7,01-670
+01-675 Coffman Cove,8,01-675
+01-680 Metlakatla,9,01-680
+01-690 Wrangell,10,01-690
+02-700 Angoon,11,02-700
+02-705 Craig,12,02-705
+02-720 Hoonah,13,02-720
+02-725 Hydaburg,14,02-725
+02-730 Kake,15,02-730
+02-735 Kasaan,16,02-735
+02-740 Klawock,17,02-740
+02-750 Pelican-Elfin Cove,18,02-750
+02-755 Petersburg-Kupreanof,19,02-755
+02-760 Port Alexander,20,02-760
+02-765 Sitka No. 1,21,02-765
+02-770 Sitka No. 2,22,02-770
+02-775 Tenakee Springs,23,02-775
+02-780 Thorne Bay,24,02-780
+02-785 Yakutat,25,02-785
+03-300 Auke Bay,26,03-300
+03-305 Lynn Canal,27,03-305
+03-310 Melvin Park,28,03-310
+03-315 Mendenhall Glacier,29,03-315
+03-320 Thunder Mountain,30,03-320
+03-325 Gustavus,31,03-325
+03-330 Haines No. 1,32,03-330
+03-335 Haines No. 2,33,03-335
+03-340 Klukwan,34,03-340
+03-345 Skagway,35,03-345
+04-100 Douglas,36,04-100
+04-105 Juneau Airport Area,37,04-105
+04-110 Juneau No. 1,38,04-110
+04-115 Juneau No. 2,39,04-115
+04-120 Juneau No. 3,40,04-120
+04-125 Lemon Creek,41,04-125
+04-130 Glacier Valley Area,42,04-130
+04-135 North Douglas,43,04-135
+05-800 Chiniak,44,05-800
+05-810 Flats,45,05-810
+05-815 Kodiak Island South,46,05-815
+05-820 Kodiak No. 1,521,05-820
+05-825 Kodiak No. 2,47,05-825
+05-830 Mission Road,48,05-830
+05-835 Old Harbor,522,05-835
+05-840 Ouzinkie,49,05-840
+05-845 Port Lions,50,05-845
+05-860 Cordova,51,05-860
+05-865 Seward-Lowell Point,52,05-865
+05-870 Tatitlek,523,05-870
+06-200 Anchor Point,53,06-200
+06-210 Diamond Ridge,54,06-210
+06-220 Fox River,55,06-220
+06-230 Homer No. 1,56,06-230
+06-240 Homer No. 2,57,06-240
+06-250 Kachemak-Fritz Creek,58,06-250
+06-260 Kasilof,59,06-260
+06-270 Ninilchik,60,06-270
+06-280 Seldovia-Kachemak Bay,61,06-280
+07-005 Central,62,07-005
+07 010 K Beach,63,07-010
+07-015 Kenai No. 1,64,07-015
+07-020 Kenai No. 2,65,07-020
+07-025 Kenai No. 3,66,07-025
+07-030 Soldotna,67,07-030
+08-035 Bear Creek,68,08-035
+08-040 Cooper Landing,69,08-040
+08-045 Funny River No. 1,70,08-045
+08-050 Funny River No. 2,71,08-050
+08-055 Hope,72,08-055
+08-060 Mackey Lake,73,08-060
+08-065 Moose Pass,74,08-065
+08-070 Nikiski,75,08-070
+08-075 Salamatof,76,08-075
+08-080 Sterling No. 1,77,08-080
+08-085 Sterling No. 2,78,08-085
+09-105 Girdwood,79,09-105
+09-110 Indian,80,09-110
+09-115 South Anchorage No. 1,81,09-115
+09-120 South Anchorage No. 2,82,09-120
+09-125 South Anchorage No. 3,83,09-125
+09-130 South Anchorage No. 4,84,09-130
+09-135 South Anchorage No. 5,85,09-135
+09-140 Stuckagain Heights,86,09-140
+09-145 Whittier,87,09-145
+10-150 Dimond,88,10-150
+10-155 Oceanview No. 1,89,10-155
+10-160 Oceanview No. 2,90,10-160
+10-165 Oceanview No. 3,91,10-165
+10-170 Oceanview No. 4,92,10-170
+10-175 Oceanview No. 5,93,10-175
+11-205 Hillside No. 1,94,11-205
+11-210 Hillside No. 2,95,11-210
+11-215 Hillside No. 3,96,11-215
+11-220 Hillside No. 4,97,11-220
+11-225 Hillside No. 5,98,11-225
+11-230 Hillside No. 6,99,11-230
+11-235 Hillside No. 7,100,11-235
+12-250 Southeast Anchorage No. 1,101,12-250
+12-255 Southeast Anchorage No. 2,102,12-255
+12-260 Southeast Anchorage No. 3,103,12-260
+12-265 Southeast Anchorage No. 4,104,12-265
+12-270 Southeast Anchorage No. 5,105,12-270
+12-275 Southeast Anchorage No. 6,106,12-275
+13-305 South Midtown No. 1,107,13-305
+13-310 South Midtown No. 2,108,13-310
+13-315 South Midtown No. 3,109,13-315
+13-320 South Midtown No. 4,110,13-320
+13-325 South Midtown No. 5,111,13-325
+14-350 North Midtown No. 1,112,14-350
+14-355 North Midtown No. 2,113,14-355
+14-360 North Midtown No. 3,114,14-360
+14-365 North Midtown No. 4,115,14-365
+14-370 North Midtown No. 5,116,14-370
+14-375 North Midtown No. 6,117,14-375
+14-380 North Midtown No. 7,118,14-380
+15-405 Southwest Anchorage No. 1,119,15-405
+15-410 Southwest Anchorage No. 2,120,15-410
+15-415 Southwest Anchorage No. 3,121,15-415
+15-420 Southwest Anchorage No. 4,122,15-420
+15-425 Southwest Anchorage No. 5,123,15-425
+15-430 Southwest Anchorage No. 6,124,15-430
+16-450 West Anchorage No. 1,125,16-450
+16-455 West Anchorage No. 2,126,16-455
+16-460 West Anchorage No. 3,127,16-460
+16-465 West Anchorage No. 4,128,16-465
+16-470 West Anchorage No. 5,129,16-470
+16-475 West Anchorage No. 6,130,16-475
+16-480 West Anchorage No. 7,131,16-480
+17-505 Downtown Anchorage No. 1,132,17-505
+17-510 Downtown Anchorage No. 2,133,17-510
+17-515 Downtown Anchorage No. 3,134,17-515
+17-520 Downtown Anchorage No. 4,135,17-520
+17-525 Downtown Anchorage No. 5,136,17-525
+17-530 Downtown Anchorage No. 6,137,17-530
+17-535 Downtown Anchorage No. 7,138,17-535
+18-550 Government Hill,139,18-550
+18-555 JBER,140,18-555
+18-560 North Muldoon,142,18-560
+18-565 Ship Creek,143,18-565
+19-605 Airport Heights No. 1,144,19-605
+19-610 Airport Heights No. 2,145,19-610
+19-615 Mountainview No. 1,146,19-615
+19-620 Mountainview No. 2,147,19-620
+19-625 South Mountainview,148,19-625
+20-650 University No. 1,149,20-650
+20-655 University No. 2,150,20-655
+20-660 University No. 3,151,20-660
+20-665 University No. 4,152,20-665
+20-670 University No. 5,153,20-670
+21-705 East Anchorage No. 1,154,21-705
+21-710 East Anchorage No. 2,155,21-710
+21-715 East Anchorage No. 3,156,21-715
+21-720 East Anchorage No. 4,157,21-720
+21-725 East Anchorage No. 5,158,21-725
+22-750 Northeast Anchorage No. 1,159,22-750
+22-755 Northeast Anchorage No. 2,160,22-755
+22-760 Northeast Anchorage No. 3,161,22-760
+22-765 Northeast Anchorage No. 4,162,22-765
+23-805 Chugach Park No. 1,163,23-805
+23-810 Eagle River No. 1,164,23-810
+23-815 Eagle River No. 2,165,23-815
+23-820 Hiland,166,23-820
+23-825 Meadow Creek No. 1,167,23-825
+23-830 Meadow Creek No. 2,168,23-830
+24-850 Chugach Park No. 2,169,24-850
+24-855 Chugiak,170,24-855
+24-860 Eagle River No. 3,171,24-860
+24-865 Eklutna,172,24-865
+24-870 Fire Lake,173,24-870
+24-875 Peters Creek No. 1,174,24-875
+24-880 Peters Creek No. 2,175,24-880
+25-305 Butte,176,25-305
+25-310 Greater Palmer,177,25-310
+25-315 Lazy Mountain,178,25-315
+25-320 Palmer City No. 1,179,25-320
+25-325 Palmer City No. 2,180,25-325
+25-330 Springer Loop,181,25-330
+25-335 Walby,182,25-335
+26-350 Fairview No. 1,183,26-350
+26-355 Fairview No. 2,184,26-355
+26-360 Knik Goose Bay No. 1,185,26-360
+26-365 Knik Goose Bay No. 2,186,26-365
+26-370 Knik Goose Bay No. 3,187,26-370
+26-375 Mat-Su Campus,188,26-375
+26-380 Snowshoe,189,26-380
+27-405 Foothills,190,27-405
+27-410 Meadow Lakes No. 1,191,27-410
+27-415 Meadow Lakes No. 2,192,27-415
+27-420 Wasilla No. 1,193,27-420
+27-425 Wasilla No. 2,194,27-425
+28-450 Lakes No. 1,195,28-450
+28-455 Lakes No. 2,196,28-455
+28-460 Seldon No. 1,197,28-460
+28-465 Seldon No. 2,198,28-465
+28-470 Seward Meridian,199,28-470
+28-475 Trunk,200,28-475
+28-480 Wasilla Lake,201,28-480
+29-505 Farm Loop,202,29-505
+29-510 Fishhook,203,29-510
+29-515 Kings Lake,204,29-515
+29-520 Lakes No. 3,205,29-520
+29-525 Sheep Mountain,206,29-525
+29-530 Sutton,207,29-530
+29-535 Valdez No. 1,208,29-535
+29-540 Valdez No. 2,209,29-540
+29-545 Valdez No. 3,210,29-545
+30-550 Anderson/Clear,211,30-550
+30-555 Big Lake,212,30-555
+30-560 Cantwell,213,30-560
+30-565 Denali Park,214,30-565
+30-570 East Schrock,215,30-570
+30-575 Healy,216,30-575
+30-580 Houston,217,30-580
+30-585 Knik Goose Bay No. 4,218,30-585
+30-590 Trapper Creek,219,30-590
+30-595 Susitna,220,30-595
+30-600 Talkeetna,221,30-600
+30-605 Willow,222,30-605
+31-446 Aurora,223,31-446
+31-455 Fairbanks No. 1,224,31-455
+31-480 Fairbanks No. 2,225,31-480
+31-485 Fairbanks No. 3,226,31-485
+32-355 Fairbanks No. 4,227,32-355
+32-365 Fairbanks No. 5,228,32-365
+32-375 Fort Wainwright,229,32-375
+32-385 Badger No. 2,230,32-385
+33-130 Badger No. 1,231,33-130
+33-135 Chena Lakes,232,33-135
+33-155 Moose Creek,233,33-155
+33-165 Newby,234,33-165
+33-175 North Pole,235,33-175
+33-183 Plack,236,33-183
+34-235 Eielson,237,34-235
+34-238 Eielson Farm Road,238,34-238
+34-240 Farmers Loop,239,34-240
+34-260 Salcha,240,34-260
+34-263 Steele Creek,241,34-263
+34-265 Steese ,242,34-265
+34-270 Summit,243,34-270
+34-280 Two Rivers,244,34-280
+35-580 Airport,245,35-580
+35-582 Chena,246,35-582
+35-584 Ester,247,35-584
+35-586 Geist,248,35-586
+35-587 Lakeview,249,35-587
+35-592 Shanly,250,35-592
+35-595 University Hills,251,35-595
+35-596 University West,252,35-596
+36-001 Goldstream No. 1,253,36-001
+36-002 Goldstream No. 2,254,36-002
+36-010 Allakaket,255,36-010
+36-014 Anvik,256,36-014
+36-018 Arctic Village,257,36-018
+36-022 Beaver,258,36-022
+36-026 Bettles,259,36-026
+36-034 Central,260,36-034
+36-038 Chistochina,261,36-038
+36-042 Circle,262,36-042
+36-046 Copper Center,263,36-046
+36-050 Delta Junction,264,36-050
+36-054 Deltana,265,36-054
+36-058 Dot Lake,266,36-058
+36-062 Eagle,267,36-062
+36-066 Fort Yukon,268,36-066
+36-070 Gakona,269,36-070
+36-074 Galena,270,36-074
+36-078 Glennallen,271,36-078
+36-082 Grayling,272,36-082
+36-086 Holy Cross,273,36-086
+36-090 Hughes,274,36-090
+36-094 Huslia,275,36-094
+36-098 Kaltag,276,36-098
+36-102 Kenny Lake,277,36-102
+36-106 Koyukuk,278,36-106
+36-110 Manley,279,36-110
+36-114 McGrath,280,36-114
+36-118 Mentasta,281,36-118
+36-122 Minto,282,36-122
+36-126 Nenana,283,36-126
+36-130 Nikolai,284,36-130
+36-134 Northway,285,36-134
+36-138 Nulato,286,36-138
+36-142 Ruby,287,36-142
+36-146 Shageluk,288,36-146
+36-162 Tanana,289,36-162
+36-166 Tetlin,290,36-166
+36-170 Tok,291,36-170
+36-174 Venetie,292,36-174
+37-700 Akutan,293,37-700
+37-702 Aleknagik,294,37-702
+37-704 Aleutians No. 1,295,37-704
+37-706 Aleutians No. 2,296,37-706
+37-707 Aniak,297,37-707
+37-708 Chignik,298,37-708
+37-709 Chuathbaluk,299,37-709
+37-710 Clark's Point,300,37-710
+37-712 Cold Bay,301,37-712
+37-713 Crooked Creek,302,37-713
+37-714 Dillingham,303,37-714
+37-716 Egegik,304,37-716
+37-718 Ekwok,305,37-718
+37-719 Goodnews Bay,306,37-719
+37-720 King Cove,307,37-720
+37-722 King Salmon,308,37-722
+37-724 Koliganek,309,37-724
+37-726 Lake Iliamna No. 1,310,37-726
+37-728 Lake Iliamna No. 2,311,37-728
+37-730 Levelock,312,37-730
+37-731 Lower Kalskag,313,37-731
+37-732 Manokotak,314,37-732
+37-734 Naknek,315,37-734
+37-736 New Stuyahok,316,37-736
+37-738 Nondalton,317,37-738
+37-740 Pedro Bay,318,37-740
+37-742 Port Heiden,319,37-742
+37-744 Sand Point,320,37-744
+37-746 Sleetmute,321,37-746
+37-748 South Naknek,322,37-748
+37-750 St. George Island,323,37-750
+37-752 St. Paul Island,324,37-752
+37-754 Togiak,325,37-754
+37-756 Tyonek,326,37-756
+37-758 Upper Kalskag,327,37-758
+38-800 Akiachak,328,38-800
+38-802 Akiak,329,38-802
+38-806 Atmautluak,330,38-806
+38-808 Bethel No. 1,331,38-808
+38-810 Bethel No. 2,332,38-810
+38-812 Chefornak,333,38-812
+38-813 Chevak,334,38-813
+38-818 Eek,335,38-818
+38-822 Kasigluk,336,38-822
+38-824 Kipnuk,337,38-824
+38-826 Kongiganak,338,38-826
+38-828 Kwethluk,339,38-828
+38-830 Kwigillingok,340,38-830
+38-836 Mekoryuk,342,38-836
+38-838 Napakiak,343,38-838
+38-840 Napaskiak,344,38-840
+38-842 Newtok,345,38-842
+38-844 Nightmute,346,38-844
+38-846 Nunapitchuk,347,38-846
+38-848 Quinhagak,348,38-848
+38-852 Toksook Bay,350,38-852
+38-854 Tuluksak,351,38-854
+38-856 Tuntutuliak,352,38-856
+38-858 Tununak,353,38-858
+39-900 Alakanuk,354,39-900
+39-902 Brevig Mission,355,39-902
+39-906 Diomede,356,39-906
+39-908 Elim,357,39-908
+39-910 Emmonak,358,39-910
+39-912 Gambell,359,39-912
+39-914 Golovin,360,39-914
+39-916 Hooper Bay,361,39-916
+39-918 Kotlik,362,39-918
+39-920 Koyuk,363,39-920
+39-921 Marshall,341,39-921
+39-922 Mountain Village,364,39-922
+39-924 Nome No. 1,365,39-924
+39-926 Nome No. 2,366,39-926
+39-928 Nunam Iqua,367,39-928
+39-930 Pilot Station,368,39-930
+39-931 Russian Mission,349,39-931
+39-932 Savoonga,369,39-932
+39-934 Scammon Bay,370,39-934
+39-936 Shaktoolik,371,39-936
+39-938 Shishmaref,372,39-938
+39-940 St. Mary's,373,39-940
+39-942 St. Michael,374,39-942
+39-944 Stebbins,375,39-944
+39-946 Teller,376,39-946
+39-948 Unalakleet,377,39-948
+39-950 Wales,378,39-950
+39-952 White Mountain,379,39-952
+40-002 Ambler,380,40-002
+40-004 Anaktuvuk Pass,381,40-004
+40-006 Atqasuk,382,40-006
+40-008 Utqiagvik,383,40-008
+40-010 Browerville,384,40-010
+40-012 Buckland,385,40-012
+40-014 Deering,386,40-014
+40-016 Kaktovik,387,40-016
+40-018 Kiana,388,40-018
+40-020 Kivalina,389,40-020
+40-022 Kobuk,390,40-022
+40-024 Kotzebue,391,40-024
+40-026 Noatak,392,40-026
+40-028 Noorvik,393,40-028
+40-030 Nuiqsut,394,40-030
+40-032 Point Hope,395,40-032
+40-034 Point Lay,396,40-034
+40-036 Selawik,397,40-036
+40-038 Shungnak,398,40-038
+40-040 Wainwright,399,40-040
+HD99 Fed Overseas Absentee,400,99
+District 1 - Absentee,401,1
+District 2 - Absentee,402,2
+District 3 - Absentee,403,3
+District 4 - Absentee,404,4
+District 5 - Absentee,405,5
+District 6 - Absentee,406,6
+District 7 - Absentee,407,7
+District 8 - Absentee,408,8
+District 9 - Absentee,409,9
+District 10 - Absentee,410,10
+District 11 - Absentee,411,11
+District 12 - Absentee,412,12
+District 13 - Absentee,413,13
+District 14 - Absentee,414,14
+District 15 - Absentee,415,15
+District 16 - Absentee,416,16
+District 17 - Absentee,417,17
+District 18 - Absentee,418,18
+District 19 - Absentee,419,19
+District 20 - Absentee,420,20
+District 21 - Absentee,421,21
+District 22 - Absentee,422,22
+District 23 - Absentee,423,23
+District 24 - Absentee,424,24
+District 25 - Absentee,425,25
+District 26 - Absentee,426,26
+District 27 - Absentee,427,27
+District 28 - Absentee,428,28
+District 29 - Absentee,429,29
+District 30 - Absentee,430,30
+District 31 - Absentee,431,31
+District 32 - Absentee,432,32
+District 33 - Absentee,433,33
+District 34 - Absentee,434,34
+District 35 - Absentee,435,35
+District 36 - Absentee,436,36
+District 37 - Absentee,437,37
+District 38 - Absentee,438,38
+District 39 - Absentee,439,39
+District 40 - Absentee,440,40
+District 1 - Early Voting,441,
+District 2 - Early Voting,442,
+District 3 - Early Voting,443,
+District 4 - Early Voting,444,
+District 5 - Early Voting,445,
+District 6 - Early Voting,446,
+District 7 - Early Voting,447,
+District 8 - Early Voting,448,
+District 9 - Early Voting,449,
+District 10 - Early Voting,450,
+District 11 - Early Voting,451,
+District 12 - Early Voting,452,
+District 13 - Early Voting,453,
+District 14 - Early Voting,454,
+District 15 - Early Voting,455,
+District 16 - Early Voting,456,
+District 17 - Early Voting,457,
+District 18 - Early Voting,458,
+District 19 - Early Voting,459,
+District 20 - Early Voting,460,
+District 21 - Early Voting,461,
+District 22 - Early Voting,462,
+District 23 - Early Voting,463,
+District 24 - Early Voting,464,
+District 25 - Early Voting,465,
+District 26 - Early Voting,466,
+District 27 - Early Voting,467,
+District 28 - Early Voting,468,
+District 29 - Early Voting,469,
+District 30 - Early Voting,470,
+District 31 - Early Voting,471,
+District 32 - Early Voting,472,
+District 33 - Early Voting,473,
+District 34 - Early Voting,474,
+District 35 - Early Voting,475,
+District 36 - Early Voting,476,
+District 37 - Early Voting,477,
+District 38 - Early Voting,478,
+District 39 - Early Voting,479,
+District 40 - Early Voting,480,
+District 1  - Question,481,
+District 2  - Question,482,
+District 3  - Question,483,
+District 4  - Question,484,
+District 5  - Question,485,
+District 6  - Question,486,
+District 7  - Question,487,
+District 8  - Question,488,
+District 9  - Question,489,
+District 10  - Question,490,
+District 11  - Question,491,
+District 12  - Question,492,
+District 13  - Question,493,
+District 14  - Question,494,
+District 15  - Question,495,
+District 16  - Question,496,
+District 17  - Question,497,
+District 18  - Question,498,
+District 19  - Question,499,
+District 20  - Question,500,
+District 21  - Question,501,
+District 22  - Question,502,
+District 23  - Question,503,
+District 24  - Question,504,
+District 25  - Question,505,
+District 26  - Question,506,
+District 27  - Question,507,
+District 28  - Question,508,
+District 29  - Question,509,
+District 30  - Question,510,
+District 31  - Question,511,
+District 32  - Question,512,
+District 33  - Question,513,
+District 34  - Question,514,
+District 35  - Question,515,
+District 36  - Question,516,
+District 37  - Question,517,
+District 38  - Question,518,
+District 39  - Question,519,
+District 40  - Question,520,

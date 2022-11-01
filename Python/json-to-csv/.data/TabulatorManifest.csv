@@ -1,0 +1,980 @@
+Description,Id,VotingLocationNumber,VotingLocationName,ExternalId,Type,ThresholdMin,ThresholdMax,WriteThresholdMin,WriteThresholdMax
+ICR,1000,999,Remote,ICR,InternetVoting,0,0,0,0
+01-600 Ketchikan No. 1 ICP,1600,1,Region I,,ImagecastEvolution,12,35,12,35
+01-610 Ketchikan No. 2 ICP,1610,1,Region I,,ImagecastEvolution,12,35,12,35
+01-620 Ketchikan No. 3 ICP,1620,1,Region I,,ImagecastEvolution,12,35,12,35
+01-640 North Tongass No. 1 ICP,1640,1,Region I,,ImagecastEvolution,12,35,12,35
+01-650 North Tongass No. 2 ICP,1650,1,Region I,,ImagecastEvolution,12,35,12,35
+01-660 Saxman ICP,1660,1,Region I,,ImagecastEvolution,12,35,12,35
+01-670 South Tongass ICP,1670,1,Region I,,ImagecastEvolution,12,35,12,35
+01-675 Coffman Cove HC,1675,1,Region I,,ImagecastEvolution,12,35,12,35
+01-680 Metlakatla ICP,1680,1,Region I,,ImagecastEvolution,12,35,12,35
+01-690 Wrangell ICP,1690,1,Region I,,ImagecastEvolution,12,35,12,35
+02-700 Angoon ICP,2700,1,Region I,,ImagecastEvolution,12,35,12,35
+02-705 Craig ICP,2705,1,Region I,,ImagecastEvolution,12,35,12,35
+02-720 Hoonah ICP,2720,1,Region I,,ImagecastEvolution,12,35,12,35
+02-725 Hydaburg ICP,2725,1,Region I,,ImagecastEvolution,12,35,12,35
+02-730 Kake ICP,2730,1,Region I,,ImagecastEvolution,12,35,12,35
+02-735 Kasaan HC,2735,1,Region I,,ImagecastEvolution,12,35,12,35
+02-740 Klawock ICP,2740,1,Region I,,ImagecastEvolution,12,35,12,35
+02-750 Pelican-Elfin Cove HC,2750,1,Region I,,ImagecastEvolution,12,35,12,35
+02-755 Petersburg-Kupreanof ICP,2755,1,Region I,,ImagecastEvolution,12,35,12,35
+02-760 Port Alexander HC,2760,1,Region I,,ImagecastEvolution,12,35,12,35
+02-765 Sitka No. 1 ICP,2765,1,Region I,,ImagecastEvolution,12,35,12,35
+02-770 Sitka No. 2 ICP,2770,1,Region I,,ImagecastEvolution,12,35,12,35
+02-775 Tenakee Springs HC,2775,1,Region I,,ImagecastEvolution,12,35,12,35
+02-780 Thorne Bay ICP,2780,1,Region I,,ImagecastEvolution,12,35,12,35
+02-785 Yakutat ICP,2785,1,Region I,,ImagecastEvolution,12,35,12,35
+03-300 Auke Bay ICP,3300,1,Region I,,ImagecastEvolution,12,35,12,35
+03-305 Lynn Canal ICP,3305,1,Region I,,ImagecastEvolution,12,35,12,35
+03-310 Melvin Park ICP,3310,1,Region I,,ImagecastEvolution,12,35,12,35
+03-315 Mendenhall Glacier ICP,3315,1,Region I,,ImagecastEvolution,12,35,12,35
+03-320 Thunder Mountain ICP,3320,1,Region I,,ImagecastEvolution,12,35,12,35
+03-325 Gustavus ICP,3325,1,Region I,,ImagecastEvolution,12,35,12,35
+03-330 Haines No. 1 ICP,3330,1,Region I,,ImagecastEvolution,12,35,12,35
+03-335 Haines No. 2 ICP,3335,1,Region I,,ImagecastEvolution,12,35,12,35
+03-340 Klukwan HC,3340,1,Region I,,ImagecastEvolution,12,35,12,35
+03-345 Skagway ICP,3345,1,Region I,,ImagecastEvolution,12,35,12,35
+04-100 Douglas ICP,4100,1,Region I,,ImagecastEvolution,12,35,12,35
+04-105 Juneau Airport Area ICP,4105,1,Region I,,ImagecastEvolution,12,35,12,35
+04-110 Juneau No. 1 ICP,4110,1,Region I,,ImagecastEvolution,12,35,12,35
+04-115 Juneau No. 2 ICP,4115,1,Region I,,ImagecastEvolution,12,35,12,35
+04-120 Juneau No. 3 ICP,4120,1,Region I,,ImagecastEvolution,12,35,12,35
+04-125 Lemon Creek ICP,4125,1,Region I,,ImagecastEvolution,12,35,12,35
+04-130 Glacier Valley Area ICP,4130,1,Region I,,ImagecastEvolution,12,35,12,35
+04-135 North Douglas ICP,4135,1,Region I,,ImagecastEvolution,12,35,12,35
+05-800 Chiniak HC,5800,1,Region I,,ImagecastEvolution,12,35,12,35
+05-810 Flats ICP,5810,1,Region I,,ImagecastEvolution,12,35,12,35
+05-815 Kodiak Island South HC,5815,1,Region I,,ImagecastEvolution,12,35,12,35
+05-820 Kodiak No. 1 ICP,5820,1,Region I,,ImagecastEvolution,12,35,12,35
+05-825 Kodiak No. 2 ICP,5825,1,Region I,,ImagecastEvolution,12,35,12,35
+05-830 Mission Road ICP,5830,1,Region I,,ImagecastEvolution,12,35,12,35
+05-835 Old Harbor HC,5835,1,Region I,,ImagecastEvolution,12,35,12,35
+05-840 Ouzinkie HC,5840,1,Region I,,ImagecastEvolution,12,35,12,35
+05-845 Port Lions HC,5845,1,Region I,,ImagecastEvolution,12,35,12,35
+05-860 Cordova ICP,5860,1,Region I,,ImagecastEvolution,12,35,12,35
+05-865 Seward-Lowell Point ICP,5865,1,Region I,,ImagecastEvolution,12,35,12,35
+05-870 Tatitlek HC,5870,1,Region I,,ImagecastEvolution,12,35,12,35
+06-200 Anchor Point ICP,6200,1,Region I,,ImagecastEvolution,12,35,12,35
+06-210 Diamond Ridge ICP,6210,1,Region I,,ImagecastEvolution,12,35,12,35
+06-220 Fox River ICP,6220,1,Region I,,ImagecastEvolution,12,35,12,35
+06-230 Homer No. 1 ICP,6230,1,Region I,,ImagecastEvolution,12,35,12,35
+06-240 Homer No. 2 ICP,6240,1,Region I,,ImagecastEvolution,12,35,12,35
+06-250 Kachemak-Fritz Creek ICP,6250,1,Region I,,ImagecastEvolution,12,35,12,35
+06-260 Kasilof ICP,6260,1,Region I,,ImagecastEvolution,12,35,12,35
+06-270 Ninilchik ICP,6270,1,Region I,,ImagecastEvolution,12,35,12,35
+06-280 Seldovia-Kachemak Bay ICP,6280,1,Region I,,ImagecastEvolution,12,35,12,35
+07-005 Central ICP,7005,3,Region V,,ImagecastEvolution,12,35,12,35
+07-010 K Beach ICP,7010,3,Region V,,ImagecastEvolution,12,35,12,35
+07-015 Kenai No. 1 ICP,7015,3,Region V,,ImagecastEvolution,12,35,12,35
+07-020 Kenai No. 2 ICP,7020,3,Region V,,ImagecastEvolution,12,35,12,35
+07-025 Kenai No. 3 ICP,7025,3,Region V,,ImagecastEvolution,12,35,12,35
+07-030 Soldotna ICP,7030,3,Region V,,ImagecastEvolution,12,35,12,35
+08-035 Bear Creek ICP,8035,3,Region V,,ImagecastEvolution,12,35,12,35
+08-040 Cooper Landing ICP,8040,3,Region V,,ImagecastEvolution,12,35,12,35
+08-045 Funny River No. 1 ICP,8045,3,Region V,,ImagecastEvolution,12,35,12,35
+08-050 Funny River No. 2 ICP,8050,3,Region V,,ImagecastEvolution,12,35,12,35
+08-055 Hope ICP,8055,3,Region V,,ImagecastEvolution,12,35,12,35
+08-060 Mackey Lake ICP,8060,3,Region V,,ImagecastEvolution,12,35,12,35
+08-065 Moose Pass ICP,8065,3,Region V,,ImagecastEvolution,12,35,12,35
+08-070 Nikiski ICP,8070,3,Region V,,ImagecastEvolution,12,35,12,35
+08-075 Salamatof ICP,8075,3,Region V,,ImagecastEvolution,12,35,12,35
+08-080 Sterling No. 1 ICP,8080,3,Region V,,ImagecastEvolution,12,35,12,35
+08-085 Sterling No. 2 ICP,8085,3,Region V,,ImagecastEvolution,12,35,12,35
+09-105 Girdwood ICP,9105,2,Region II,,ImagecastEvolution,12,35,12,35
+09-110 Indian ICP,9110,2,Region II,,ImagecastEvolution,12,35,12,35
+09-115 South Anchorage No. 1 ICP,9115,2,Region II,,ImagecastEvolution,12,35,12,35
+09-120 South Anchorage No. 2 ICP,9120,2,Region II,,ImagecastEvolution,12,35,12,35
+09-125 South Anchorage No. 3 ICP,9125,2,Region II,,ImagecastEvolution,12,35,12,35
+09-130 South Anchorage No. 4 ICP,9130,2,Region II,,ImagecastEvolution,12,35,12,35
+09-135 South Anchorage No. 5 ICP,9135,2,Region II,,ImagecastEvolution,12,35,12,35
+09-140 Stuckagain Heights ICP,9140,2,Region II,,ImagecastEvolution,12,35,12,35
+09-145 Whittier ICP,9145,2,Region II,,ImagecastEvolution,12,35,12,35
+10-150 Dimond ICP,10150,2,Region II,,ImagecastEvolution,12,35,12,35
+10-155 Oceanview No. 1 ICP,10155,2,Region II,,ImagecastEvolution,12,35,12,35
+10-160 Oceanview No. 2 ICP,10160,2,Region II,,ImagecastEvolution,12,35,12,35
+10-165 Oceanview No. 3 ICP,10165,2,Region II,,ImagecastEvolution,12,35,12,35
+10-170 Oceanview No. 4 ICP,10170,2,Region II,,ImagecastEvolution,12,35,12,35
+10-175 Oceanview No. 5 ICP,10175,2,Region II,,ImagecastEvolution,12,35,12,35
+11-205 Hillside No. 1 ICP,11205,2,Region II,,ImagecastEvolution,12,35,12,35
+11-210 Hillside No. 2 ICP,11210,2,Region II,,ImagecastEvolution,12,35,12,35
+11-215 Hillside No. 3 ICP,11215,2,Region II,,ImagecastEvolution,12,35,12,35
+11-220 Hillside No. 4 ICP,11220,2,Region II,,ImagecastEvolution,12,35,12,35
+11-225 Hillside No. 5 ICP,11225,2,Region II,,ImagecastEvolution,12,35,12,35
+11-230 Hillside No. 6 ICP,11230,2,Region II,,ImagecastEvolution,12,35,12,35
+11-235 Hillside No. 7 ICP,11235,2,Region II,,ImagecastEvolution,12,35,12,35
+12-250 Southeast Anchorage No. 1 ICP,12255,2,Region II,,ImagecastEvolution,12,35,12,35
+12-255 Southeast Anchorage No. 2 ICP,12260,2,Region II,,ImagecastEvolution,12,35,12,35
+12-260 Southeast Anchorage No. 3 ICP,12265,2,Region II,,ImagecastEvolution,12,35,12,35
+12-265 Southeast Anchorage No. 4 ICP,12270,2,Region II,,ImagecastEvolution,12,35,12,35
+12-270 Southeast Anchorage No. 5 ICP,12275,2,Region II,,ImagecastEvolution,12,35,12,35
+12-275 Southeast Anchorage No. 6 ICP,12280,2,Region II,,ImagecastEvolution,12,35,12,35
+13-305 South Midtown No. 1 ICP,13305,2,Region II,,ImagecastEvolution,12,35,12,35
+13-310 South Midtown No. 2 ICP,13310,2,Region II,,ImagecastEvolution,12,35,12,35
+13-315 South Midtown No. 3 ICP,13315,2,Region II,,ImagecastEvolution,12,35,12,35
+13-320 South Midtown No. 4 ICP,13320,2,Region II,,ImagecastEvolution,12,35,12,35
+13-325 South Midtown No. 5 ICP,13325,2,Region II,,ImagecastEvolution,12,35,12,35
+14-350 North Midtown No. 1 ICP,14350,2,Region II,,ImagecastEvolution,12,35,12,35
+14-355 North Midtown No. 2 ICP,14355,2,Region II,,ImagecastEvolution,12,35,12,35
+14-360 North Midtown No. 3 ICP,14360,2,Region II,,ImagecastEvolution,12,35,12,35
+14-365 North Midtown No. 4 ICP,14365,2,Region II,,ImagecastEvolution,12,35,12,35
+14-370 North Midtown No. 5 ICP,14370,2,Region II,,ImagecastEvolution,12,35,12,35
+14-375 North Midtown No. 6 ICP,14375,2,Region II,,ImagecastEvolution,12,35,12,35
+14-380 North Midtown No. 7 ICP,14380,2,Region II,,ImagecastEvolution,12,35,12,35
+15-405 Southwest Anchorage No. 1 ICP,15405,2,Region II,,ImagecastEvolution,12,35,12,35
+15-410 Southwest Anchorage No. 2 ICP,15410,2,Region II,,ImagecastEvolution,12,35,12,35
+15-415 Southwest Anchorage No. 3 ICP,15415,2,Region II,,ImagecastEvolution,12,35,12,35
+15-420 Southwest Anchorage No. 4 ICP,15420,2,Region II,,ImagecastEvolution,12,35,12,35
+15-425 Southwest Anchorage No. 5 ICP,15425,2,Region II,,ImagecastEvolution,12,35,12,35
+15-430 Southwest Anchorage No. 6 ICP,15430,2,Region II,,ImagecastEvolution,12,35,12,35
+16-450 West Anchorage No. 1 ICP,16450,2,Region II,,ImagecastEvolution,12,35,12,35
+16-455 West Anchorage No. 2 ICP,16455,2,Region II,,ImagecastEvolution,12,35,12,35
+16-460 West Anchorage No. 3 ICP,16460,2,Region II,,ImagecastEvolution,12,35,12,35
+16-465 West Anchorage No. 4 ICP,16465,2,Region II,,ImagecastEvolution,12,35,12,35
+16-470 West Anchorage No. 5 ICP,16470,2,Region II,,ImagecastEvolution,12,35,12,35
+16-475 West Anchorage No. 6 ICP,16475,2,Region II,,ImagecastEvolution,12,35,12,35
+16-480 West Anchorage No. 7 ICP,16480,2,Region II,,ImagecastEvolution,12,35,12,35
+17-505 Downtown Anchorage No. 1 ICP,17505,2,Region II,,ImagecastEvolution,12,35,12,35
+17-510 Downtown Anchorage No. 2 ICP,17510,2,Region II,,ImagecastEvolution,12,35,12,35
+17-515 Downtown Anchorage No. 3 ICP,17515,2,Region II,,ImagecastEvolution,12,35,12,35
+17-520 Downtown Anchorage No. 4 ICP,17520,2,Region II,,ImagecastEvolution,12,35,12,35
+17-525 Downtown Anchorage No. 5 ICP,17525,2,Region II,,ImagecastEvolution,12,35,12,35
+17-530 Downtown Anchorage No. 6 ICP,17530,2,Region II,,ImagecastEvolution,12,35,12,35
+17-535 Downtown Anchorage No. 7 ICP,17535,2,Region II,,ImagecastEvolution,12,35,12,35
+18-550 Government Hill ICP,18550,2,Region II,,ImagecastEvolution,12,35,12,35
+18-555 JBER ICP,18555,2,Region II,,ImagecastEvolution,12,35,12,35
+18-560 North Muldoon ICP,18560,2,Region II,,ImagecastEvolution,12,35,12,35
+18-565 Ship Creek ICP,18565,2,Region II,,ImagecastEvolution,12,35,12,35
+19-605 Airport Heights No. 1 ICP,19605,2,Region II,,ImagecastEvolution,12,35,12,35
+19-610 Airport Heights No. 2 ICP,19610,2,Region II,,ImagecastEvolution,12,35,12,35
+19-615 Mountainview No. 1 ICP,19615,2,Region II,,ImagecastEvolution,12,35,12,35
+19-620 Mountainview No. 2 ICP,19620,2,Region II,,ImagecastEvolution,12,35,12,35
+19-625 South Mountainview ICP,19625,2,Region II,,ImagecastEvolution,12,35,12,35
+20-650 University No. 1 ICP,20650,2,Region II,,ImagecastEvolution,12,35,12,35
+20-655 University No. 2 ICP,20655,2,Region II,,ImagecastEvolution,12,35,12,35
+20-660 University No. 3 ICP,20660,2,Region II,,ImagecastEvolution,12,35,12,35
+20-665 University No. 4 ICP,20665,2,Region II,,ImagecastEvolution,12,35,12,35
+20-670 University No. 5 ICP,20670,2,Region II,,ImagecastEvolution,12,35,12,35
+21-705 East Anchorage No. 1 ICP,21705,2,Region II,,ImagecastEvolution,12,35,12,35
+21-710 East Anchorage No. 2 ICP,21710,2,Region II,,ImagecastEvolution,12,35,12,35
+21-715 East Anchorage No. 3 ICP,21715,2,Region II,,ImagecastEvolution,12,35,12,35
+21-720 East Anchorage No. 4 ICP,21720,2,Region II,,ImagecastEvolution,12,35,12,35
+21-725 East Anchorage No. 5 ICP,21725,2,Region II,,ImagecastEvolution,12,35,12,35
+22-750 Northeast Anchorage No. 1 ICP,22750,2,Region II,,ImagecastEvolution,12,35,12,35
+22-755 Northeast Anchorage No. 2 ICP,22755,2,Region II,,ImagecastEvolution,12,35,12,35
+22-760 Northeast Anchorage No. 3 ICP,22760,2,Region II,,ImagecastEvolution,12,35,12,35
+22-765 Northeast Anchorage No. 4 ICP,22765,2,Region II,,ImagecastEvolution,12,35,12,35
+23-805 Chugach Park No. 1 ICP,23805,2,Region II,,ImagecastEvolution,12,35,12,35
+23-810 Eagle River No. 1 ICP,23810,2,Region II,,ImagecastEvolution,12,35,12,35
+23-815 Eagle River No. 2 ICP,23815,2,Region II,,ImagecastEvolution,12,35,12,35
+23-820 Hiland ICP,23820,3,Region V,,ImagecastEvolution,12,35,12,35
+23-825 Meadow Creek No. 1 ICP,23825,2,Region II,,ImagecastEvolution,12,35,12,35
+23-830 Meadow Creek No. 2 ICP,23830,2,Region II,,ImagecastEvolution,12,35,12,35
+24-850 Chugach Park No. 2 ICP,24850,2,Region II,,ImagecastEvolution,12,35,12,35
+24-855 Chugiak ICP,24855,2,Region II,,ImagecastEvolution,12,35,12,35
+24-860 Eagle River No. 3 ICP,24860,2,Region II,,ImagecastEvolution,12,35,12,35
+24-865 Eklutna ICP,24865,2,Region II,,ImagecastEvolution,12,35,12,35
+24-870 Fire Lake ICP,24870,2,Region II,,ImagecastEvolution,12,35,12,35
+24-875 Peters Creek No. 1 ICP,24875,2,Region II,,ImagecastEvolution,12,35,12,35
+24-880 Peters Creek No. 2 ICP,24880,2,Region II,,ImagecastEvolution,12,35,12,35
+25-305 Butte ICP,25305,3,Region V,,ImagecastEvolution,12,35,12,35
+25-310 Greater Palmer ICP,25310,3,Region V,,ImagecastEvolution,12,35,12,35
+25-315 Lazy Mountain ICP,25315,3,Region V,,ImagecastEvolution,12,35,12,35
+25-320 Palmer City No. 1 ICP,25320,3,Region V,,ImagecastEvolution,12,35,12,35
+25-325 Palmer City No. 2 ICP,25325,3,Region V,,ImagecastEvolution,12,35,12,35
+25-330 Springer Loop ICP,25330,3,Region V,,ImagecastEvolution,12,35,12,35
+25-335 Walby ICP,25335,3,Region V,,ImagecastEvolution,12,35,12,35
+26-350 Fairview No. 1 ICP,26350,3,Region V,,ImagecastEvolution,12,35,12,35
+26-355 Fairview No. 2 ICP,26355,3,Region V,,ImagecastEvolution,12,35,12,35
+26-360 Knik Goose Bay No. 1 ICP,26360,3,Region V,,ImagecastEvolution,12,35,12,35
+26-365 Knik Goose Bay No. 2 ICP,26365,3,Region V,,ImagecastEvolution,12,35,12,35
+26-370 Knik Goose Bay No. 3 ICP,26370,3,Region V,,ImagecastEvolution,12,35,12,35
+26-375 Mat-Su Campus ICP,26375,3,Region V,,ImagecastEvolution,12,35,12,35
+26-380 Snowshoe ICP,26380,3,Region V,,ImagecastEvolution,12,35,12,35
+27-405 Foothills ICP,27405,3,Region V,,ImagecastEvolution,12,35,12,35
+27-410 Meadow Lakes No. 1 ICP,27410,3,Region V,,ImagecastEvolution,12,35,12,35
+27-415 Meadow Lakes No. 2 ICP,27415,3,Region V,,ImagecastEvolution,12,35,12,35
+27-420 Wasilla No. 1 ICP,27420,3,Region V,,ImagecastEvolution,12,35,12,35
+27-425 Wasilla No. 2 ICP,27425,3,Region V,,ImagecastEvolution,12,35,12,35
+28-450 Lakes No. 1 ICP,28450,3,Region V,,ImagecastEvolution,12,35,12,35
+28-455 Lakes No. 2 ICP,28455,3,Region V,,ImagecastEvolution,12,35,12,35
+28-460 Seldon No. 1 ICP,28460,3,Region V,,ImagecastEvolution,12,35,12,35
+28-465 Seldon No. 2 ICP,28465,3,Region V,,ImagecastEvolution,12,35,12,35
+28-470 Seward Meridian ICP,28470,3,Region V,,ImagecastEvolution,12,35,12,35
+28-475 Trunk ICP,28475,3,Region V,,ImagecastEvolution,12,35,12,35
+28-480 Wasilla Lake ICP,28480,3,Region V,,ImagecastEvolution,12,35,12,35
+29-505 Farm Loop ICP,29505,3,Region V,,ImagecastEvolution,12,35,12,35
+29-510 Fishhook ICP,29510,3,Region V,,ImagecastEvolution,12,35,12,35
+29-515 Kings Lake ICP,29515,3,Region V,,ImagecastEvolution,12,35,12,35
+29-520 Lakes No. 3 ICP,29520,3,Region V,,ImagecastEvolution,12,35,12,35
+29-525 Sheep Mountain ICP,29525,3,Region V,,ImagecastEvolution,12,35,12,35
+29-530 Sutton ICP,29530,3,Region V,,ImagecastEvolution,12,35,12,35
+29-535 Valdez No. 1 ICP,29535,3,Region V,,ImagecastEvolution,12,35,12,35
+29-540 Valdez No. 2 ICP,29540,3,Region V,,ImagecastEvolution,12,35,12,35
+29-545 Valdez No. 3 ICP,29545,3,Region V,,ImagecastEvolution,12,35,12,35
+30-550 Anderson Clear HC,30550,3,Region V,,ImagecastEvolution,12,35,12,35
+30-555 Big Lake ICP,30555,3,Region V,,ImagecastEvolution,12,35,12,35
+30-560 Cantwell HC,30560,3,Region V,,ImagecastEvolution,12,35,12,35
+30-565 Denali Park HC,30565,3,Region V,,ImagecastEvolution,12,35,12,35
+30-570 East Schrock ICP,30570,3,Region V,,ImagecastEvolution,12,35,12,35
+30-575 Healy ICP,30575,3,Region V,,ImagecastEvolution,12,35,12,35
+30-580 Houston ICP,30580,3,Region V,,ImagecastEvolution,12,35,12,35
+30-585 Knik Goose Bay No. 4 ICP,30585,3,Region V,,ImagecastEvolution,12,35,12,35
+30-590 Trapper Creek ICP,30590,3,Region V,,ImagecastEvolution,12,35,12,35
+30-595 Susitna ICP,30595,3,Region V,,ImagecastEvolution,12,35,12,35
+30-600 Talkeetna ICP,30600,3,Region V,,ImagecastEvolution,12,35,12,35
+30-605 Willow ICP,30605,3,Region V,,ImagecastEvolution,12,35,12,35
+31-446 Aurora ICP,31446,4,Region III,,ImagecastEvolution,12,35,12,35
+31-455 Fairbanks No. 1 ICPA,31455,4,Region III,,ImagecastEvolution,12,35,12,35
+31-455 Fairbanks No. 1 ICPB,314552,4,Region III,,ImagecastEvolution,12,35,12,35
+31-480 Fairbanks No. 2 ICP,31480,4,Region III,,ImagecastEvolution,12,35,12,35
+31-485 Fairbanks No. 3 ICPA,31485,4,Region III,,ImagecastEvolution,12,35,12,35
+32-355 Fairbanks No. 4 ICP,32355,4,Region III,,ImagecastEvolution,12,35,12,35
+32-365 Fairbanks No. 5 ICP,32365,4,Region III,,ImagecastEvolution,12,35,12,35
+32-375 Fort Wainwright ICP,32375,4,Region III,,ImagecastEvolution,12,35,12,35
+32-385 Badger No. 2 ICP,32385,4,Region III,,ImagecastEvolution,12,35,12,35
+33-130 Badger No. 1 ICP,33130,4,Region III,,ImagecastEvolution,12,35,12,35
+33-135 Chena Lakes ICP,33135,4,Region III,,ImagecastEvolution,12,35,12,35
+33-155 Moose Creek ICP,33155,4,Region III,,ImagecastEvolution,12,35,12,35
+33-165 Newby ICP,33165,4,Region III,,ImagecastEvolution,12,35,12,35
+33-175 North Pole ICP,33175,4,Region III,,ImagecastEvolution,12,35,12,35
+33-183 Plack ICP,33183,4,Region III,,ImagecastEvolution,12,35,12,35
+34-235 Eielson ICP,34235,4,Region III,,ImagecastEvolution,12,35,12,35
+34-238 Eielson Farm Road ICP,34238,4,Region III,,ImagecastEvolution,12,35,12,35
+34-240 Farmers Loop ICP,34240,4,Region III,,ImagecastEvolution,12,35,12,35
+34-260 Salcha ICP,34260,4,Region III,,ImagecastEvolution,12,35,12,35
+34-263 Steele Creek ICP,34263,4,Region III,,ImagecastEvolution,12,35,12,35
+34-265 Steese ICP,34265,4,Region III,,ImagecastEvolution,12,35,12,35
+34-270 Summit ICP,34270,4,Region III,,ImagecastEvolution,12,35,12,35
+34-280 Two Rivers ICP,34280,4,Region III,,ImagecastEvolution,12,35,12,35
+35-580 Airport ICP,35580,4,Region III,,ImagecastEvolution,12,35,12,35
+35-582 Chena ICPA,35582,4,Region III,,ImagecastEvolution,12,35,12,35
+35-582 Chena ICPB,355822,4,Region III,,ImagecastEvolution,12,35,12,35
+35-584 Ester ICP,35584,4,Region III,,ImagecastEvolution,12,35,12,35
+35-586 Geist ICP,35586,4,Region III,,ImagecastEvolution,12,35,12,35
+35-587 Lakeview ICP,35587,4,Region III,,ImagecastEvolution,12,35,12,35
+35-592 Shanly ICP,35592,4,Region III,,ImagecastEvolution,12,35,12,35
+35-595 University Hills ICP,35595,4,Region III,,ImagecastEvolution,12,35,12,35
+35-596 University West ICPA,35596,4,Region III,,ImagecastEvolution,12,35,12,35
+36-001 Goldstream No. 1 ICP,36001,4,Region III,,ImagecastEvolution,12,35,12,35
+36-002 Goldstream No. 2 ICP,36002,4,Region III,,ImagecastEvolution,12,35,12,35
+36-010 Allakaket HC,36010,4,Region III,,ImagecastEvolution,12,35,12,35
+36-014 Anvik HC,36014,4,Region III,,ImagecastEvolution,12,35,12,35
+36-018 Arctic Village HC,36018,4,Region III,,ImagecastEvolution,12,35,12,35
+36-022 Beaver HC,36022,4,Region III,,ImagecastEvolution,12,35,12,35
+36-026 Bettles HC,36026,4,Region III,,ImagecastEvolution,12,35,12,35
+36-034 Central HC,36034,4,Region III,,ImagecastEvolution,12,35,12,35
+36-038 Chistochina HC,36038,4,Region III,,ImagecastEvolution,12,35,12,35
+36-042 Circle HC,36042,4,Region III,,ImagecastEvolution,12,35,12,35
+36-046 Copper Center ICP,36046,4,Region III,,ImagecastEvolution,12,35,12,35
+36-050 Delta Junction ICP,36050,4,Region III,,ImagecastEvolution,12,35,12,35
+36-054 Deltana ICP,36054,4,Region III,,ImagecastEvolution,12,35,12,35
+36-058 Dot Lake HC,36058,4,Region III,,ImagecastEvolution,12,35,12,35
+36-062 Eagle HC,36062,4,Region III,,ImagecastEvolution,12,35,12,35
+36-066 Fort Yukon HC,36066,4,Region III,,ImagecastEvolution,12,35,12,35
+36-070 Gakona HC,36070,4,Region III,,ImagecastEvolution,12,35,12,35
+36-074 Galena HC,36074,4,Region III,,ImagecastEvolution,12,35,12,35
+36-078 Glennallen ICP,36078,4,Region III,,ImagecastEvolution,12,35,12,35
+36-082 Grayling HC,36082,4,Region III,,ImagecastEvolution,12,35,12,35
+36-086 Holy Cross HC,36086,4,Region III,,ImagecastEvolution,12,35,12,35
+36-090 Hughes HC,36090,4,Region III,,ImagecastEvolution,12,35,12,35
+36-094 Huslia HC,36094,4,Region III,,ImagecastEvolution,12,35,12,35
+36-098 Kaltag HC,36098,4,Region III,,ImagecastEvolution,12,35,12,35
+36-102 Kenny Lake ICP,36102,4,Region III,,ImagecastEvolution,12,35,12,35
+36-106 Koyukuk HC,36106,4,Region III,,ImagecastEvolution,12,35,12,35
+36-110 Manley HC,36110,4,Region III,,ImagecastEvolution,12,35,12,35
+36-114 McGrath HC,36114,4,Region III,,ImagecastEvolution,12,35,12,35
+36-118 Mentasta HC,36118,4,Region III,,ImagecastEvolution,12,35,12,35
+36-122 Minto HC,36122,4,Region III,,ImagecastEvolution,12,35,12,35
+36-126 Nenana ICP,36126,4,Region III,,ImagecastEvolution,12,35,12,35
+36-130 Nikolai HC,36130,4,Region III,,ImagecastEvolution,12,35,12,35
+36-134 Northway HC,36134,4,Region III,,ImagecastEvolution,12,35,12,35
+36-138 Nulato HC,36138,4,Region III,,ImagecastEvolution,12,35,12,35
+36-142 Ruby HC,36142,4,Region III,,ImagecastEvolution,12,35,12,35
+36-146 Shageluk HC,36146,4,Region III,,ImagecastEvolution,12,35,12,35
+36-162 Tanana HC,36162,4,Region III,,ImagecastEvolution,12,35,12,35
+36-166 Tetlin HC,36166,4,Region III,,ImagecastEvolution,12,35,12,35
+36-170 Tok ICP,36170,4,Region III,,ImagecastEvolution,12,35,12,35
+36-174 Venetie HC,36174,4,Region III,,ImagecastEvolution,12,35,12,35
+37-700 Akutan HC,37700,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-702 Aleknagik HC,37702,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-704 Aleutians No. 1 HC,37704,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-706 Aleutians No. 2 ICP,37706,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-707 Aniak HC,37707,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-708 Chignik HC,37708,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-709 Chuathbaluk HC,37709,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-710 Clarks Point HC,37710,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-712 Cold Bay HC,37712,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-713 Crooked Creek HC,37713,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-714 Dillingham ICP,37714,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-716 Egegik HC,37716,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-718 Ekwok HC,37718,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-719 Goodnews Bay HC,37719,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-720 King Cove HC,37720,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-722 King Salmon HC,37722,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-724 Koliganek HC,37724,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-726 Lake Iliamna No. 1 HC,37726,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-728 Lake Iliamna No. 2 HC,37728,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-730 Levelock HC,37730,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-731 Lower Kalskag HC,37731,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-732 Manokotak HC,37732,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-734 Naknek HC,37734,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-736 New Stuyahok HC,37736,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-738 Nondalton HC,37738,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-740 Pedro Bay HC,37740,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-742 Port Heiden HC,37742,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-744 Sand Point HC,37744,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-746 Sleetmute HC,37746,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-748 South Naknek HC,37748,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-750 St. George Island HC,37750,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-752 St. Paul Island HC,37752,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-754 Togiak ICP,37754,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-756 Tyonek HC,37756,5,Region IV,,ImagecastEvolution,12,35,12,35
+37-758 Upper Kalskag HC,37758,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-800 Akiachak HC,38800,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-802 Akiak HC,38802,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-806 Atmautluak HC,38806,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-808 Bethel No. 1 ICP,38808,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-810 Bethel No. 2 ICP,38810,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-812 Chefornak HC,38812,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-813 Chevak ICP,38813,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-818 Eek HC,38818,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-822 Kasigluk HC,38822,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-824 Kipnuk HC,38824,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-826 Kongiganak HC,38826,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-828 Kwethluk HC,38828,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-830 Kwigillingok HC,38830,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-900 Alakanuk HC,39900,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-902 Brevig Mission HC,39902,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-906 Diomede HC,39906,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-908 Elim HC,39908,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-910 Emmonak HC,39910,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-912 Gambell HC,39912,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-914 Golovin HC,39914,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-916 Hooper Bay ICP,39916,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-918 Kotlik HC,39918,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-920 Koyuk HC,39920,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-921 Marshall HC,39921,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-836 Mekoryuk HC,38836,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-838 Napakiak HC,38838,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-840 Napaskiak HC,38840,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-842 Newtok HC,38842,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-844 Nightmute HC,38844,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-846 Nunapitchuk HC,38846,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-848 Quinhagak HC,38848,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-922 Mountain Village HC,39922,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-924 Nome No. 1 ICP,39924,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-926 Nome No. 2 ICP,39926,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-928 Nunam Iqua HC,39928,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-930 Pilot Station HC,39930,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-931 Russian Mission HC,39931,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-852 Toksook Bay HC,38852,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-854 Tuluksak HC,38854,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-856 Tuntutuliak HC,38856,5,Region IV,,ImagecastEvolution,12,35,12,35
+38-858 Tununak HC,38858,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-932 Savoonga ICP,39932,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-934 Scammon Bay HC,39934,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-936 Shaktoolik HC,39936,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-938 Shishmaref ICP,39938,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-940 St. Marys HC,39940,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-942 St. Michael HC,39942,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-944 Stebbins HC,39944,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-946 Teller HC,39946,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-948 Unalakleet ICP,39948,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-950 Wales HC,39950,5,Region IV,,ImagecastEvolution,12,35,12,35
+39-952 White Mountain HC,39952,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-002 Ambler HC,40002,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-004 Anaktuvuk Pass ICP,40004,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-006 Atqasuk ICP,40006,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-008 Utqiagvik ICP,40008,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-010 Browerville ICP,40010,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-012 Buckland HC,40012,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-014 Deering HC,40014,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-016 Kaktovik ICP,40016,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-018 Kiana HC,40018,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-020 Kivalina HC,40020,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-022 Kobuk HC,40022,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-024 Kotzebue ICP,40024,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-026 Noatak HC,40026,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-028 Noorvik HC,40028,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-030 Nuiqsut ICP,40030,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-032 Point Hope ICP,40032,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-034 Point Lay ICP,40034,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-036 Selawik HC,40036,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-038 Shungnak HC,40038,5,Region IV,,ImagecastEvolution,12,35,12,35
+40-040 Wainwright ICP,40040,5,Region IV,,ImagecastEvolution,12,35,12,35
+All Absentee,10000,6,Director,,ImagecastEvolution,12,35,12,35
+SRB Abs (A) ICC,90100,6,Director,,ImagecastCentral,5,25,5,25
+SRB Abs (L) ICC,90104,6,Director,,ImagecastCentral,5,25,5,25
+SRB Abs (S) ICC,90107,6,Director,,ImagecastCentral,5,25,5,25
+SRB Que (A) ICC,90300,6,Director,,ImagecastCentral,5,25,5,25
+SRB Que (L) ICC,90304,6,Director,,ImagecastCentral,5,25,5,25
+SRB Que (S) ICC,90307,6,Director,,ImagecastCentral,5,25,5,25
+SRB Abs (X) ICC,90108,6,Director,,ImagecastCentral,5,25,5,25
+SRB EV ICC,90500,6,Director,,ImagecastCentral,5,25,5,25
+RI Abs (A) ICC1,91100,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (L) ICC1,91104,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (S) ICC1,91107,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (X) ICC1,91108,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (A) ICC2,91200,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (L) ICC2,91204,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (S) ICC2,91207,1,Region I,,ImagecastCentral,5,25,5,25
+RI Abs (X) ICC2,91208,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (A) ICC1,91300,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (L) ICC1,91304,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (S) ICC1,91307,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (A) ICC2,91400,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (L) ICC2,91404,1,Region I,,ImagecastCentral,5,25,5,25
+RI Que (S) ICC2,91407,1,Region I,,ImagecastCentral,5,25,5,25
+RI EV ICC1,91500,1,Region I,,ImagecastCentral,5,25,5,25
+RI EV ICC2,91600,1,Region I,,ImagecastCentral,5,25,5,25
+RI EV HP,91700,1,Region I,,ImagecastX,0,0,0,0
+RI ABS HP,91800,1,Region I,,ImagecastX,0,0,0,0
+RI QUE HP,91900,1,Region I,,ImagecastX,0,0,0,0
+RII Abs (A) ICC1,92100,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (L) ICC1,92104,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (S) ICC1,92107,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (X) ICC1,92108,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (A) ICC2,92200,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (L) ICC2,92204,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (S) ICC2,92207,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (X) ICC2,92208,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (A) ICC3,92300,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (L) ICC3,92304,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (S) ICC3,92307,2,Region II,,ImagecastCentral,5,25,5,25
+RII Abs (X) ICC3,92308,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (A) ICC1,92400,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (L) ICC1,92404,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (S) ICC1,92407,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (A) ICC2,92500,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (L) ICC2,92504,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (S) ICC2,92507,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (A) ICC3,92600,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (L) ICC3,92604,2,Region II,,ImagecastCentral,5,25,5,25
+RII Que (S) ICC3,92607,2,Region II,,ImagecastCentral,5,25,5,25
+RII EV ICC1,92700,2,Region II,,ImagecastCentral,5,25,5,25
+RII EV ICC2,92800,2,Region II,,ImagecastCentral,5,25,5,25
+RII EV ICC3,92900,2,Region II,,ImagecastCentral,5,25,5,25
+RIII Abs (A) ICC1,93100,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (L) ICC1,93104,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (S) ICC1,93107,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (X) ICC1,93108,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (A) ICC2,93200,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (L) ICC2,93204,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (S) ICC2,93207,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Abs (X) ICC2,93208,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (A) ICC1,93300,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (L) ICC1,93304,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (S) ICC1,93307,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (A) ICC2,93400,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (L) ICC2,93404,4,Region III,,ImagecastCentral,5,25,5,25
+RIII Que (S) ICC2,93407,4,Region III,,ImagecastCentral,5,25,5,25
+RIII EV ICC1,93500,4,Region III,,ImagecastCentral,5,25,5,25
+RIII EV ICC2,93600,4,Region III,,ImagecastCentral,5,25,5,25
+RIII EV HP,93700,4,Region III,,ImagecastX,0,0,0,0
+RIII ABS HP,93800,4,Region III,,ImagecastX,0,0,0,0
+RIII QUE HP,93900,4,Region III,,ImagecastX,0,0,0,0
+RIV Abs (A) ICC1,94100,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (L) ICC1,94104,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (S) ICC1,94107,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (X) ICC1,94108,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (A) ICC2,94200,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (L) ICC2,94204,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (S) ICC2,94207,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Abs (X) ICC2,94208,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (A) ICC1,94300,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (L) ICC1,94304,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (S) ICC1,94307,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (A) ICC2,94400,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (L) ICC2,94404,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV Que (S) ICC2,94407,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV EV ICC1,94500,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV EV ICC2,94600,5,Region IV,,ImagecastCentral,5,25,5,25
+RIV EV HP,94700,5,Region IV,,ImagecastX,0,0,0,0
+RIV ABS HP,94800,5,Region IV,,ImagecastX,0,0,0,0
+RIV QUE HP,94900,5,Region IV,,ImagecastX,0,0,0,0
+RV Abs (A) ICC1,95100,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (L) ICC1,95104,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (S) ICC1,95107,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (X) ICC1,95108,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (A) ICC2,95200,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (L) ICC2,95204,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (S) ICC2,95207,3,Region V,,ImagecastCentral,5,25,5,25
+RV Abs (X) ICC2,95208,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (A) ICC1,95300,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (L) ICC1,95304,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (S) ICC1,95307,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (A) ICC2,95400,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (L) ICC2,95404,3,Region V,,ImagecastCentral,5,25,5,25
+RV Que (S) ICC2,95407,3,Region V,,ImagecastCentral,5,25,5,25
+RV EV ICC1,95500,3,Region V,,ImagecastCentral,5,25,5,25
+RV EV ICC2,95600,3,Region V,,ImagecastCentral,5,25,5,25
+RV EV HP,95700,3,Region V,,ImagecastX,0,0,0,0
+RV ABS HP,95800,3,Region V,,ImagecastX,0,0,0,0
+RV QUE HP,95900,3,Region V,,ImagecastX,0,0,0,0
+SRB HD1,100001,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD2,100002,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD3,100003,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD4,100004,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD5,100005,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD6,100006,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD7,100007,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD8,100008,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD9,100009,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD10,100010,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD11,100011,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD12,100012,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD13,100013,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD14,100014,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD15,100015,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD16,100016,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD17,100017,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD18,100018,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD19,100019,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD20,100020,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD21,100021,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD22,100022,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD23,100023,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD24,100024,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD25,100025,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD26,100026,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD27,100027,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD28,100028,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD29,100029,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD30,100030,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD31,100031,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD32,100032,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD33,100033,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD34,100034,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD35,100035,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD36,100036,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD37,100037,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD38,100038,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD39,100039,6,Director,,ImagecastCentral,5,25,5,25
+SRB HD40,100040,6,Director,,ImagecastCentral,5,25,5,25
+01-600 Ketchikan No. 1 HP,901600,1,Region I,,ImagecastX,0,0,0,0
+01-610 Ketchikan No. 2 HP,901610,1,Region I,,ImagecastX,0,0,0,0
+01-620 Ketchikan No. 3 HP,901620,1,Region I,,ImagecastX,0,0,0,0
+01-640 North Tongass No. 1 HP,901640,1,Region I,,ImagecastX,0,0,0,0
+01-650 North Tongass No. 2 HP,901650,1,Region I,,ImagecastX,0,0,0,0
+01-660 Saxman HP,901660,1,Region I,,ImagecastX,0,0,0,0
+01-670 South Tongass HP,901670,1,Region I,,ImagecastX,0,0,0,0
+01-675 Coffman Cove VVPAT,901675,1,Region I,,ImagecastX,0,0,0,0
+01-680 Metlakatla HP,901680,1,Region I,,ImagecastX,0,0,0,0
+01-690 Wrangell HP,901690,1,Region I,,ImagecastX,0,0,0,0
+02-700 Angoon HP,902700,1,Region I,,ImagecastX,0,0,0,0
+02-705 Craig HP,902705,1,Region I,,ImagecastX,0,0,0,0
+02-720 Hoonah HP,902720,1,Region I,,ImagecastX,0,0,0,0
+02-725 Hydaburg HP,902725,1,Region I,,ImagecastX,0,0,0,0
+02-730 Kake HP,902730,1,Region I,,ImagecastX,0,0,0,0
+02-735 Kasaan VVPAT,902735,1,Region I,,ImagecastX,0,0,0,0
+02-740 Klawock HP,902740,1,Region I,,ImagecastX,0,0,0,0
+02-750 Pelican-Elfin Cove VVPAT,902750,1,Region I,,ImagecastX,0,0,0,0
+02-755 Petersburg-Kupreanof HP,902755,1,Region I,,ImagecastX,0,0,0,0
+02-760 Port Alexander VVPAT,902760,1,Region I,,ImagecastX,0,0,0,0
+02-765 Sitka No. 1 HP,902765,1,Region I,,ImagecastX,0,0,0,0
+02-770 Sitka No. 2 HP,902770,1,Region I,,ImagecastX,0,0,0,0
+02-775 Tenakee Springs VVPAT,902775,1,Region I,,ImagecastX,0,0,0,0
+02-780 Thorne Bay HP,902780,1,Region I,,ImagecastX,0,0,0,0
+02-785 Yakutat HP,902785,1,Region I,,ImagecastX,0,0,0,0
+03-300 Auke Bay HP,903300,1,Region I,,ImagecastX,0,0,0,0
+03-305 Lynn Canal HP,903305,1,Region I,,ImagecastX,0,0,0,0
+03-310 Melvin Park HP,903310,1,Region I,,ImagecastX,0,0,0,0
+03-315 Mendenhall Glacier HP,903315,1,Region I,,ImagecastX,0,0,0,0
+03-320 Thunder Mountain HP,903320,1,Region I,,ImagecastX,0,0,0,0
+03-325 Gustavus HP,903325,1,Region I,,ImagecastX,0,0,0,0
+03-330 Haines No. 1 HP,903330,1,Region I,,ImagecastX,0,0,0,0
+03-335 Haines No. 2 HP,903335,1,Region I,,ImagecastX,0,0,0,0
+03-340 Klukwan VVPAT,903340,1,Region I,,ImagecastX,0,0,0,0
+03-345 Skagway HP,903345,1,Region I,,ImagecastX,0,0,0,0
+04-100 Douglas HP,904100,1,Region I,,ImagecastX,0,0,0,0
+04-105 Juneau Airport Area HP,904105,1,Region I,,ImagecastX,0,0,0,0
+04-110 Juneau No. 1 HP,904110,1,Region I,,ImagecastX,0,0,0,0
+04-115 Juneau No. 2 HP,904115,1,Region I,,ImagecastX,0,0,0,0
+04-120 Juneau No. 3 HP,904120,1,Region I,,ImagecastX,0,0,0,0
+04-125 Lemon Creek HP,904125,1,Region I,,ImagecastX,0,0,0,0
+04-130 Glacier Valley Area HP,904130,1,Region I,,ImagecastX,0,0,0,0
+04-135 North Douglas HP,904135,1,Region I,,ImagecastX,0,0,0,0
+05-800 Chiniak VVPAT,905800,1,Region I,,ImagecastX,0,0,0,0
+05-810 Flats HP,905810,1,Region I,,ImagecastX,0,0,0,0
+05-815 Kodiak Island South VVPAT,905815,1,Region I,,ImagecastX,0,0,0,0
+05-820 Kodiak No. 1 HP,905820,1,Region I,,ImagecastX,0,0,0,0
+05-825 Kodiak No. 2 HP,905825,1,Region I,,ImagecastX,0,0,0,0
+05-830 Mission Road HP,905830,1,Region I,,ImagecastX,0,0,0,0
+05-835 Old Harbor VVPAT,905835,1,Region I,,ImagecastX,0,0,0,0
+05-840 Ouzinkie VVPAT,905840,1,Region I,,ImagecastX,0,0,0,0
+05-845 Port Lions VVPAT,905845,1,Region I,,ImagecastX,0,0,0,0
+05-860 Cordova HP,905860,1,Region I,,ImagecastX,0,0,0,0
+05-865 Seward-Lowell Point HP,905865,1,Region I,,ImagecastX,0,0,0,0
+06-200 Anchor Point HP,906200,1,Region I,,ImagecastX,0,0,0,0
+06-210 Diamond Ridge HP,906210,1,Region I,,ImagecastX,0,0,0,0
+06-220 Fox River HP,906220,1,Region I,,ImagecastX,0,0,0,0
+06-230 Homer No. 1 HP,906230,1,Region I,,ImagecastX,0,0,0,0
+06-240 Homer No. 2 HP,906240,1,Region I,,ImagecastX,0,0,0,0
+06-250 Kachemak-Fritz Creek HP,906250,1,Region I,,ImagecastX,0,0,0,0
+06-260 Kasilof HP,906260,1,Region I,,ImagecastX,0,0,0,0
+06-270 Ninilchik HP,906270,1,Region I,,ImagecastX,0,0,0,0
+06-280 Seldovia-Kachemak Bay HP,906280,1,Region I,,ImagecastX,0,0,0,0
+07-005 Central HP,907005,3,Region V,,ImagecastX,0,0,0,0
+07-010 K Beach HP,907010,3,Region V,,ImagecastX,0,0,0,0
+07-015 Kenai No. 1 HP,907015,3,Region V,,ImagecastX,0,0,0,0
+07-020 Kenai No. 2 HP,907020,3,Region V,,ImagecastX,0,0,0,0
+07-025 Kenai No. 3 HP,907025,3,Region V,,ImagecastX,0,0,0,0
+07-030 Soldotna HP,907030,3,Region V,,ImagecastX,0,0,0,0
+08-035 Bear Creek HP,908035,3,Region V,,ImagecastX,0,0,0,0
+08-040 Cooper Landing HP,908040,3,Region V,,ImagecastX,0,0,0,0
+08-045 Funny River No. 1 HP,908045,3,Region V,,ImagecastX,0,0,0,0
+08-050 Funny River No. 2 HP,908050,3,Region V,,ImagecastX,0,0,0,0
+08-055 Hope HP,908055,3,Region V,,ImagecastX,0,0,0,0
+08-060 Mackey Lake HP,908060,3,Region V,,ImagecastX,0,0,0,0
+08-065 Moose Pass HP,908065,3,Region V,,ImagecastX,0,0,0,0
+08-070 Nikiski HP,908070,3,Region V,,ImagecastX,0,0,0,0
+08-075 Salamatof HP,908075,3,Region V,,ImagecastX,0,0,0,0
+08-080 Sterling No. 1 HP,908080,3,Region V,,ImagecastX,0,0,0,0
+08-085 Sterling No. 2 HP,908085,3,Region V,,ImagecastX,0,0,0,0
+RII EV HP,921000,2,Region II,,ImagecastX,0,0,0,0
+RII ABS HP,922000,2,Region II,,ImagecastX,0,0,0,0
+RII QUE HP,923000,2,Region II,,ImagecastX,0,0,0,0
+09-105 Girdwood HP,909105,2,Region II,,ImagecastX,0,0,0,0
+09-110 Indian HP,909110,2,Region II,,ImagecastX,0,0,0,0
+09-115 South Anchorage No. 1 HP,909115,2,Region II,,ImagecastX,0,0,0,0
+09-120 South Anchorage No. 2 HP,909120,2,Region II,,ImagecastX,0,0,0,0
+09-125 South Anchorage No. 3 HP,909125,2,Region II,,ImagecastX,0,0,0,0
+09-130 South Anchorage No. 4 HP,909130,2,Region II,,ImagecastX,0,0,0,0
+09-135 South Anchorage No. 5 HP,909135,2,Region II,,ImagecastX,0,0,0,0
+09-140 Stuckagain Heights HP,909140,2,Region II,,ImagecastX,0,0,0,0
+09-145 Whittier HP,909145,2,Region II,,ImagecastX,0,0,0,0
+10-150 Dimond HP,910150,2,Region II,,ImagecastX,0,0,0,0
+10-155 Oceanview No. 1 HP,910155,2,Region II,,ImagecastX,0,0,0,0
+10-160 Oceanview No. 2 HP,910160,2,Region II,,ImagecastX,0,0,0,0
+10-165 Oceanview No. 3 HP,910165,2,Region II,,ImagecastX,0,0,0,0
+10-170 Oceanview No. 4 HP,910170,2,Region II,,ImagecastX,0,0,0,0
+10-175 Oceanview No. 5 HP,910175,2,Region II,,ImagecastX,0,0,0,0
+11-205 Hillside No. 1 HP,911205,2,Region II,,ImagecastX,0,0,0,0
+11-210 Hillside No. 2 HP,911210,2,Region II,,ImagecastX,0,0,0,0
+11-215 Hillside No. 3 HP,911215,2,Region II,,ImagecastX,0,0,0,0
+11-220 Hillside No. 4 HP,911220,2,Region II,,ImagecastX,0,0,0,0
+11-225 Hillside No. 5 HP,911225,2,Region II,,ImagecastX,0,0,0,0
+11-230 Hillside No. 6 HP,911230,2,Region II,,ImagecastX,0,0,0,0
+11-235 Hillside No. 7 HP,911235,2,Region II,,ImagecastX,0,0,0,0
+12-250 Southeast Anchorage No. 1 HP,912250,2,Region II,,ImagecastX,0,0,0,0
+12-255 Southeast Anchorage No. 2 HP,912255,2,Region II,,ImagecastX,0,0,0,0
+12-260 Southeast Anchorage No. 3 HP,912260,2,Region II,,ImagecastX,0,0,0,0
+12-265 Southeast Anchorage No. 4 HP,912265,2,Region II,,ImagecastX,0,0,0,0
+12-270 Southeast Anchorage No. 5 HP,912270,2,Region II,,ImagecastX,0,0,0,0
+12-275 Southeast Anchorage No. 6 HP,912275,2,Region II,,ImagecastX,0,0,0,0
+13-305 South Midtown No. 1 HP,913305,2,Region II,,ImagecastX,0,0,0,0
+13-310 South Midtown No. 2 HP,913310,2,Region II,,ImagecastX,0,0,0,0
+13-315 South Midtown No. 3 HP,913315,2,Region II,,ImagecastX,0,0,0,0
+13-320 South Midtown No. 4 HP,913320,2,Region II,,ImagecastX,0,0,0,0
+13-325 South Midtown No. 5 HP,913325,2,Region II,,ImagecastX,0,0,0,0
+14-350 North Midtown No. 1 HP,914350,2,Region II,,ImagecastX,0,0,0,0
+14-355 North Midtown No. 2 HP,914355,2,Region II,,ImagecastX,0,0,0,0
+14-360 North Midtown No. 3 HP,914360,2,Region II,,ImagecastX,0,0,0,0
+14-365 North Midtown No. 4 HP,914365,2,Region II,,ImagecastX,0,0,0,0
+14-370 North Midtown No. 5 HP,914370,2,Region II,,ImagecastX,0,0,0,0
+14-375 North Midtown No. 6 HP,914375,2,Region II,,ImagecastX,0,0,0,0
+14-380 North Midtown No. 7 HP,914380,2,Region II,,ImagecastX,0,0,0,0
+15-405 Southwest Anchorage No. 1 HP,915405,2,Region II,,ImagecastX,0,0,0,0
+15-410 Southwest Anchorage No. 2 HP,915410,2,Region II,,ImagecastX,0,0,0,0
+15-415 Southwest Anchorage No. 3 HP,915415,2,Region II,,ImagecastX,0,0,0,0
+15-420 Southwest Anchorage No. 4 HP,915420,2,Region II,,ImagecastX,0,0,0,0
+15-425 Southwest Anchorage No. 5 HP,915425,2,Region II,,ImagecastX,0,0,0,0
+15-430 Southwest Anchorage No. 6 HP,915430,2,Region II,,ImagecastX,0,0,0,0
+16-450 West Anchorage No. 1 HP,916450,2,Region II,,ImagecastX,0,0,0,0
+16-455 West Anchorage No. 2 HP,916455,2,Region II,,ImagecastX,0,0,0,0
+16-460 West Anchorage No. 3 HP,916460,2,Region II,,ImagecastX,0,0,0,0
+16-465 West Anchorage No. 4 HP,916465,2,Region II,,ImagecastX,0,0,0,0
+16-470 West Anchorage No. 5 HP,916470,2,Region II,,ImagecastX,0,0,0,0
+16-475 West Anchorage No. 6 HP,916475,2,Region II,,ImagecastX,0,0,0,0
+16-480 West Anchorage No. 7 HP,916480,2,Region II,,ImagecastX,0,0,0,0
+17-505 Downtown Anchorage No. 1 HP,917505,2,Region II,,ImagecastX,0,0,0,0
+17-510 Downtown Anchorage No. 2 HP,917510,2,Region II,,ImagecastX,0,0,0,0
+17-515 Downtown Anchorage No. 3 HP,917515,2,Region II,,ImagecastX,0,0,0,0
+17-520 Downtown Anchorage No. 4 HP,917520,2,Region II,,ImagecastX,0,0,0,0
+17-525 Downtown Anchorage No. 5 HP,917525,2,Region II,,ImagecastX,0,0,0,0
+17-530 Downtown Anchorage No. 6 HP,917530,2,Region II,,ImagecastX,0,0,0,0
+17-535 Downtown Anchorage No. 7 HP,917535,2,Region II,,ImagecastX,0,0,0,0
+18-550 Government Hill HP,918550,2,Region II,,ImagecastX,0,0,0,0
+18-555 JBER HP,918555,2,Region II,,ImagecastX,0,0,0,0
+18-560 North Muldoon HP,918560,2,Region II,,ImagecastX,0,0,0,0
+18-565 Ship Creek HP,918565,2,Region II,,ImagecastX,0,0,0,0
+19-605 Airport Heights No. 1 HP,919605,2,Region II,,ImagecastX,0,0,0,0
+19-610 Airport Heights No. 2 HP,919610,2,Region II,,ImagecastX,0,0,0,0
+19-615 Mountainview No. 1 HP,919615,2,Region II,,ImagecastX,0,0,0,0
+19-620 Mountainview No. 2 HP,919620,2,Region II,,ImagecastX,0,0,0,0
+19-625 South Mountainview HP,919625,2,Region II,,ImagecastX,0,0,0,0
+20-650 University No. 1 HP,920650,2,Region II,,ImagecastX,0,0,0,0
+20-655 University No. 2 HP,920655,2,Region II,,ImagecastX,0,0,0,0
+20-660 University No. 3 HP,920660,2,Region II,,ImagecastX,0,0,0,0
+20-665 University No. 4 HP,920665,2,Region II,,ImagecastX,0,0,0,0
+20-670 University No. 5 HP,920670,2,Region II,,ImagecastX,0,0,0,0
+21-705 East Anchorage No. 1 HP,921705,2,Region II,,ImagecastX,0,0,0,0
+21-710 East Anchorage No. 2 HP,921710,2,Region II,,ImagecastX,0,0,0,0
+21-715 East Anchorage No. 3 HP,921715,2,Region II,,ImagecastX,0,0,0,0
+21-720 East Anchorage No. 4 HP,921720,2,Region II,,ImagecastX,0,0,0,0
+21-725 East Anchorage No. 5 HP,921725,2,Region II,,ImagecastX,0,0,0,0
+22-750 Northeast Anchorage No. 1 HP,922750,2,Region II,,ImagecastX,0,0,0,0
+22-755 Northeast Anchorage No. 2 HP,922755,2,Region II,,ImagecastX,0,0,0,0
+22-760 Northeast Anchorage No. 3 HP,922760,2,Region II,,ImagecastX,0,0,0,0
+22-765 Northeast Anchorage No. 4 HP,922765,2,Region II,,ImagecastX,0,0,0,0
+23-805 Chugach Park No. 1 HP,923805,2,Region II,,ImagecastX,0,0,0,0
+23-810 Eagle River No. 1 HP,923810,2,Region II,,ImagecastX,0,0,0,0
+23-815 Eagle River No. 2 HP,923815,2,Region II,,ImagecastX,0,0,0,0
+23-820 Hiland HP,923820,2,Region II,,ImagecastX,0,0,0,0
+23-825 Meadow Creek No. 1 HP,923825,3,Region V,,ImagecastX,0,0,0,0
+23-830 Meadow Creek No. 2 HP,923830,2,Region II,,ImagecastX,0,0,0,0
+24-850 Chugach Park No. 2 HP,924850,2,Region II,,ImagecastX,0,0,0,0
+24-855 Chugiak HP,924855,2,Region II,,ImagecastX,0,0,0,0
+24-860 Eagle River No. 3 HP,924860,2,Region II,,ImagecastX,0,0,0,0
+24-865 Eklutna HP,924865,2,Region II,,ImagecastX,0,0,0,0
+24-870 Fire Lake HP,924870,2,Region II,,ImagecastX,0,0,0,0
+24-875 Peters Creek No. 1 HP,924875,2,Region II,,ImagecastX,0,0,0,0
+24-880 Peters Creek No. 2 HP,924880,2,Region II,,ImagecastX,0,0,0,0
+25-305 Butte HP,925305,3,Region V,,ImagecastX,0,0,0,0
+25-310 Greater Palmer HP,925310,3,Region V,,ImagecastX,0,0,0,0
+25-315 Lazy Mountain HP,925315,3,Region V,,ImagecastX,0,0,0,0
+25-320 Palmer City No. 1 HP,925320,3,Region V,,ImagecastX,0,0,0,0
+25-325 Palmer City No. 2 HP,925325,3,Region V,,ImagecastX,0,0,0,0
+25-330 Springer Loop HP,925330,3,Region V,,ImagecastX,0,0,0,0
+25-335 Walby HP,925335,3,Region V,,ImagecastX,0,0,0,0
+26-350 Fairview No. 1 HP,926350,3,Region V,,ImagecastX,0,0,0,0
+26-355 Fairview No. 2 HP,926355,3,Region V,,ImagecastX,0,0,0,0
+26-360 Knik Goose Bay No. 1 HP,926360,3,Region V,,ImagecastX,0,0,0,0
+26-365 Knik Goose Bay No. 2 HP,926365,3,Region V,,ImagecastX,0,0,0,0
+26-370 Knik Goose Bay No. 3 HP,926370,3,Region V,,ImagecastX,0,0,0,0
+26-375 Mat-Su Campus HP,926375,3,Region V,,ImagecastX,0,0,0,0
+26-380 Snowshoe HP,926380,3,Region V,,ImagecastX,0,0,0,0
+27-405 Foothills HP,927405,3,Region V,,ImagecastX,0,0,0,0
+27-410 Meadow Lakes No. 1 HP,927410,3,Region V,,ImagecastX,0,0,0,0
+27-415 Meadow Lakes No. 2 HP,927415,3,Region V,,ImagecastX,0,0,0,0
+27-420 Wasilla No. 1 HP,927420,3,Region V,,ImagecastX,0,0,0,0
+27-425 Wasilla No. 2 HP,927425,3,Region V,,ImagecastX,0,0,0,0
+28-450 Lakes No. 1 HP,928450,3,Region V,,ImagecastX,0,0,0,0
+28-455 Lakes No. 2 HP,928455,3,Region V,,ImagecastX,0,0,0,0
+28-460 Seldon No. 1 HP,928460,3,Region V,,ImagecastX,0,0,0,0
+28-465 Seldon No. 2 HP,928465,3,Region V,,ImagecastX,0,0,0,0
+28-470 Seward Meridian HP,928470,3,Region V,,ImagecastX,0,0,0,0
+28-475 Trunk HP,928475,3,Region V,,ImagecastX,0,0,0,0
+28-480 Wasilla Lake HP,928480,3,Region V,,ImagecastX,0,0,0,0
+29-505 Farm Loop HP,929505,3,Region V,,ImagecastX,0,0,0,0
+29-510 Fishhook HP,929510,3,Region V,,ImagecastX,0,0,0,0
+29-515 Kings Lake HP,929515,3,Region V,,ImagecastX,0,0,0,0
+29-520 Lakes No. 3 HP,929520,3,Region V,,ImagecastX,0,0,0,0
+29-525 Sheep Mountain HP,929525,3,Region V,,ImagecastX,0,0,0,0
+29-530 Sutton HP,929530,3,Region V,,ImagecastX,0,0,0,0
+29-535 Valdez No. 1 HP,929535,3,Region V,,ImagecastX,0,0,0,0
+29-540 Valdez No. 2 HP,929540,3,Region V,,ImagecastX,0,0,0,0
+29-545 Valdez No. 3 HP,929545,3,Region V,,ImagecastX,0,0,0,0
+30-550 Anderson Clear VVPAT,930550,3,Region V,,ImagecastX,0,0,0,0
+30-555 Big Lake HP,930555,3,Region V,,ImagecastX,0,0,0,0
+30-560 Cantwell VVPAT,930560,3,Region V,,ImagecastX,0,0,0,0
+30-565 Denali Park VVPAT,930565,3,Region V,,ImagecastX,0,0,0,0
+30-570 East Schrock HP,930570,3,Region V,,ImagecastX,0,0,0,0
+30-575 Healy HP,930575,3,Region V,,ImagecastX,0,0,0,0
+30-580 Houston HP,930580,3,Region V,,ImagecastX,0,0,0,0
+30-585 Knik Goose Bay No. 4 HP,930585,3,Region V,,ImagecastX,0,0,0,0
+30-590 Trapper Creek HP,930590,3,Region V,,ImagecastX,0,0,0,0
+30-595 Susitna HP,930595,3,Region V,,ImagecastX,0,0,0,0
+30-600 Talkeetna HP,930600,3,Region V,,ImagecastX,0,0,0,0
+30-605 Willow HP,930605,3,Region V,,ImagecastX,0,0,0,0
+31-446 Aurora HP,931446,4,Region III,,ImagecastX,0,0,0,0
+31-455 Fairbanks No. 1 HP,931455,4,Region III,,ImagecastX,0,0,0,0
+31-480 Fairbanks No. 2 HP,931480,4,Region III,,ImagecastX,0,0,0,0
+31-485 Fairbanks No. 3 HP,931485,4,Region III,,ImagecastX,0,0,0,0
+32-355 Fairbanks No. 4 HP,932355,4,Region III,,ImagecastX,0,0,0,0
+32-365 Fairbanks No. 5 HP,932365,4,Region III,,ImagecastX,0,0,0,0
+32-375 Fort Wainwright HP,932375,4,Region III,,ImagecastX,0,0,0,0
+32-385 Badger No. 2 HP,932385,4,Region III,,ImagecastX,0,0,0,0
+33-130 Badger No. 1 HP,933130,4,Region III,,ImagecastX,0,0,0,0
+33-135 Chena Lakes HP,933135,4,Region III,,ImagecastX,0,0,0,0
+33-155 Moose Creek HP,933155,4,Region III,,ImagecastX,0,0,0,0
+33-165 Newby HP,933165,4,Region III,,ImagecastX,0,0,0,0
+33-175 North Pole HP,933175,4,Region III,,ImagecastX,0,0,0,0
+33-183 Plack HP,933183,4,Region III,,ImagecastX,0,0,0,0
+34-235 Eielson HP,934235,4,Region III,,ImagecastX,0,0,0,0
+34-238 Eielson Farm Road HP,934238,4,Region III,,ImagecastX,0,0,0,0
+34-240 Farmers Loop HP,934240,4,Region III,,ImagecastX,0,0,0,0
+34-260 Salcha HP,934260,4,Region III,,ImagecastX,0,0,0,0
+34-263 Steele Creek HP,934263,4,Region III,,ImagecastX,0,0,0,0
+34-265 Steese HP,934265,4,Region III,,ImagecastX,0,0,0,0
+34-270 Summit HP,934270,4,Region III,,ImagecastX,0,0,0,0
+34-280 Two Rivers HP,934280,4,Region III,,ImagecastX,0,0,0,0
+35-580 Airport HP,935580,4,Region III,,ImagecastX,0,0,0,0
+35-582 Chena HP,935582,4,Region III,,ImagecastX,0,0,0,0
+35-584 Ester HP,935584,4,Region III,,ImagecastX,0,0,0,0
+35-586 Geist HP,935586,4,Region III,,ImagecastX,0,0,0,0
+35-587 Lakeview HP,935587,4,Region III,,ImagecastX,0,0,0,0
+35-592 Shanly HP,935592,4,Region III,,ImagecastX,0,0,0,0
+35-595 University Hills HP,935595,4,Region III,,ImagecastX,0,0,0,0
+35-596 University West HP,935596,4,Region III,,ImagecastX,0,0,0,0
+36-001 Goldstream No. 1 HP,936001,4,Region III,,ImagecastX,0,0,0,0
+36-002 Goldstream No. 2 HP,936002,4,Region III,,ImagecastX,0,0,0,0
+36-010 Allakaket VVPAT,936010,4,Region III,,ImagecastX,0,0,0,0
+36-014 Anvik VVPAT,936014,4,Region III,,ImagecastX,0,0,0,0
+36-018 Arctic Village VVPAT,936018,4,Region III,,ImagecastX,0,0,0,0
+36-022 Beaver VVPAT,936022,4,Region III,,ImagecastX,0,0,0,0
+36-026 Bettles VVPAT,936026,4,Region III,,ImagecastX,0,0,0,0
+36-034 Central VVPAT,936034,4,Region III,,ImagecastX,0,0,0,0
+36-038 Chistochina VVPAT,936038,4,Region III,,ImagecastX,0,0,0,0
+36-042 Circle VVPAT,936042,4,Region III,,ImagecastX,0,0,0,0
+36-046 Copper Center HP,936046,4,Region III,,ImagecastX,0,0,0,0
+36-050 Delta Junction HP,936050,4,Region III,,ImagecastX,0,0,0,0
+36-054 Deltana HP,936054,4,Region III,,ImagecastX,0,0,0,0
+36-058 Dot Lake VVPAT,936058,4,Region III,,ImagecastX,0,0,0,0
+36-062 Eagle VVPAT,936062,4,Region III,,ImagecastX,0,0,0,0
+36-066 Fort Yukon VVPAT,936066,4,Region III,,ImagecastX,0,0,0,0
+36-070 Gakona VVPAT,936070,4,Region III,,ImagecastX,0,0,0,0
+36-074 Galena VVPAT,936074,4,Region III,,ImagecastX,0,0,0,0
+36-078 Glennallen HP,936078,4,Region III,,ImagecastX,0,0,0,0
+36-082 Grayling VVPAT,936082,4,Region III,,ImagecastX,0,0,0,0
+36-086 Holy Cross VVPAT,936086,4,Region III,,ImagecastX,0,0,0,0
+36-090 Hughes VVPAT,936090,4,Region III,,ImagecastX,0,0,0,0
+36-094 Huslia VVPAT,936094,4,Region III,,ImagecastX,0,0,0,0
+36-098 Kaltag VVPAT,936098,4,Region III,,ImagecastX,0,0,0,0
+36-102 Kenny Lake HP,936102,4,Region III,,ImagecastX,0,0,0,0
+36-106 Koyukuk VVPAT,936106,4,Region III,,ImagecastX,0,0,0,0
+36-110 Manley VVPAT,936110,4,Region III,,ImagecastX,0,0,0,0
+36-114 McGrath VVPAT,936114,4,Region III,,ImagecastX,0,0,0,0
+36-118 Mentasta VVPAT,936118,4,Region III,,ImagecastX,0,0,0,0
+36-122 Minto VVPAT,936122,4,Region III,,ImagecastX,0,0,0,0
+36-126 Nenana HP,936126,4,Region III,,ImagecastX,0,0,0,0
+36-130 Nikolai VVPAT,936130,4,Region III,,ImagecastX,0,0,0,0
+36-134 Northway VVPAT,936134,4,Region III,,ImagecastX,0,0,0,0
+36-138 Nulato VVPAT,936138,4,Region III,,ImagecastX,0,0,0,0
+36-142 Ruby VVPAT,936142,4,Region III,,ImagecastX,0,0,0,0
+36-146 Shageluk VVPAT,936146,4,Region III,,ImagecastX,0,0,0,0
+36-162 Tanana VVPAT,936162,4,Region III,,ImagecastX,0,0,0,0
+36-166 Tetlin VVPAT,936166,4,Region III,,ImagecastX,0,0,0,0
+36-170 Tok HP,936170,4,Region III,,ImagecastX,0,0,0,0
+36-174 Venetie VVPAT,936174,4,Region III,,ImagecastX,0,0,0,0
+37-700 Akutan VVPAT,937700,5,Region IV,,ImagecastX,0,0,0,0
+37-702 Aleknagik VVPAT,937702,5,Region IV,,ImagecastX,0,0,0,0
+37-704 Aleutians No. 1 VVPAT,937704,5,Region IV,,ImagecastX,0,0,0,0
+37-706 Aleutians No. 2 VVPAT,937706,5,Region IV,,ImagecastX,0,0,0,0
+37-707 Aniak VVPAT,937707,5,Region IV,,ImagecastX,0,0,0,0
+37-708 Chignik VVPAT,937708,5,Region IV,,ImagecastX,0,0,0,0
+37-709 Chuathbaluk VVPAT,937709,5,Region IV,,ImagecastX,0,0,0,0
+37-710 Clarks Point VVPAT,937710,5,Region IV,,ImagecastX,0,0,0,0
+37-712 Cold Bay VVPAT,937712,5,Region IV,,ImagecastX,0,0,0,0
+37-713 Crooked Creek VVPAT,937713,5,Region IV,,ImagecastX,0,0,0,0
+37-714 Dillingham HP,937714,5,Region IV,,ImagecastX,0,0,0,0
+37-716 Egegik VVPAT,937716,5,Region IV,,ImagecastX,0,0,0,0
+37-718 Ekwok VVPAT,937718,5,Region IV,,ImagecastX,0,0,0,0
+37-719 Goodnews Bay VVPAT,937719,5,Region IV,,ImagecastX,0,0,0,0
+37-720 King Cove VVPAT,937720,5,Region IV,,ImagecastX,0,0,0,0
+37-722 King Salmon VVPAT,937722,5,Region IV,,ImagecastX,0,0,0,0
+37-724 Koliganek VVPAT,937724,5,Region IV,,ImagecastX,0,0,0,0
+37-726 Lake Iliamna No. 1 VVPAT,937726,5,Region IV,,ImagecastX,0,0,0,0
+37-728 Lake Iliamna No. 2 VVPAT,937728,5,Region IV,,ImagecastX,0,0,0,0
+37-730 Levelock VVPAT,937730,5,Region IV,,ImagecastX,0,0,0,0
+37-731 Lower Kalskag VVPAT,937731,5,Region IV,,ImagecastX,0,0,0,0
+37-732 Manokotak VVPAT,937732,5,Region IV,,ImagecastX,0,0,0,0
+37-734 Naknek VVPAT,937734,5,Region IV,,ImagecastX,0,0,0,0
+37-736 New Stuyahok VVPAT,937736,5,Region IV,,ImagecastX,0,0,0,0
+37-738 Nondalton VVPAT,937738,5,Region IV,,ImagecastX,0,0,0,0
+37-740 Pedro Bay VVPAT,937740,5,Region IV,,ImagecastX,0,0,0,0
+37-742 Port Heiden VVPAT,937742,5,Region IV,,ImagecastX,0,0,0,0
+37-744 Sand Point VVPAT,937744,5,Region IV,,ImagecastX,0,0,0,0
+37-746 Sleetmute VVPAT,937746,5,Region IV,,ImagecastX,0,0,0,0
+37-748 South Naknek VVPAT,937748,5,Region IV,,ImagecastX,0,0,0,0
+37-750 St. George Island VVPAT,937750,5,Region IV,,ImagecastX,0,0,0,0
+37-752 St. Paul Island VVPAT,937752,5,Region IV,,ImagecastX,0,0,0,0
+37-754 Togiak VVPAT,937754,5,Region IV,,ImagecastX,0,0,0,0
+37-756 Tyonek VVPAT,937756,5,Region IV,,ImagecastX,0,0,0,0
+37-758 Upper Kalskag VVPAT,937758,5,Region IV,,ImagecastX,0,0,0,0
+38-800 Akiachak VVPAT,938800,5,Region IV,,ImagecastX,0,0,0,0
+38-802 Akiak VVPAT,938802,5,Region IV,,ImagecastX,0,0,0,0
+38-806 Atmautluak VVPAT,938806,5,Region IV,,ImagecastX,0,0,0,0
+38-808 Bethel No. 1 HP,938808,5,Region IV,,ImagecastX,0,0,0,0
+38-810 Bethel No. 2 HP,938810,5,Region IV,,ImagecastX,0,0,0,0
+38-812 Chefornak VVPAT,938812,5,Region IV,,ImagecastX,0,0,0,0
+38-813 Chevak VVPAT,938813,5,Region IV,,ImagecastX,0,0,0,0
+38-818 Eek VVPAT,938818,5,Region IV,,ImagecastX,0,0,0,0
+38-822 Kasigluk VVPAT,938822,5,Region IV,,ImagecastX,0,0,0,0
+38-824 Kipnuk VVPAT,938824,5,Region IV,,ImagecastX,0,0,0,0
+38-826 Kongiganak VVPAT,938826,5,Region IV,,ImagecastX,0,0,0,0
+38-828 Kwethluk VVPAT,938828,5,Region IV,,ImagecastX,0,0,0,0
+38-830 Kwigillingok VVPAT,938830,5,Region IV,,ImagecastX,0,0,0,0
+39-900 Alakanuk VVPAT,939900,5,Region IV,,ImagecastX,0,0,0,0
+39-902 Brevig Mission VVPAT,939902,5,Region IV,,ImagecastX,0,0,0,0
+39-906 Diomede VVPAT,939906,5,Region IV,,ImagecastX,0,0,0,0
+39-908 Elim VVPAT,939908,5,Region IV,,ImagecastX,0,0,0,0
+39-910 Emmonak VVPAT,939910,5,Region IV,,ImagecastX,0,0,0,0
+39-912 Gambell VVPAT,939912,5,Region IV,,ImagecastX,0,0,0,0
+39-914 Golovin VVPAT,939914,5,Region IV,,ImagecastX,0,0,0,0
+39-916 Hooper Bay VVPAT,939916,5,Region IV,,ImagecastX,0,0,0,0
+39-918 Kotlik VVPAT,939918,5,Region IV,,ImagecastX,0,0,0,0
+39-920 Koyuk VVPAT,939920,5,Region IV,,ImagecastX,0,0,0,0
+39-921 Marshall VVPAT,939921,5,Region IV,,ImagecastX,0,0,0,0
+38-836 Mekoryuk VVPAT,938836,5,Region IV,,ImagecastX,0,0,0,0
+38-838 Napakiak VVPAT,938838,5,Region IV,,ImagecastX,0,0,0,0
+38-840 Napaskiak VVPAT,938840,5,Region IV,,ImagecastX,0,0,0,0
+38-842 Newtok VVPAT,938842,5,Region IV,,ImagecastX,0,0,0,0
+38-844 Nightmute VVPAT,938844,5,Region IV,,ImagecastX,0,0,0,0
+38-846 Nunapitchuk VVPAT,938846,5,Region IV,,ImagecastX,0,0,0,0
+38-848 Quinhagak VVPAT,938848,5,Region IV,,ImagecastX,0,0,0,0
+39-922 Mountain Village VVPAT,939922,5,Region IV,,ImagecastX,0,0,0,0
+39-924 Nome No. 1 HP,939924,5,Region IV,,ImagecastX,0,0,0,0
+39-926 Nome No. 2 HP,939926,5,Region IV,,ImagecastX,0,0,0,0
+39-928 Nunam Iqua VVPAT,939928,5,Region IV,,ImagecastX,0,0,0,0
+39-930 Pilot Station VVPAT,939930,5,Region IV,,ImagecastX,0,0,0,0
+39-931 Russian Mission VVPAT,939931,5,Region IV,,ImagecastX,0,0,0,0
+38-852 Toksook Bay VVPAT,938852,5,Region IV,,ImagecastX,0,0,0,0
+38-854 Tuluksak VVPAT,938854,5,Region IV,,ImagecastX,0,0,0,0
+38-856 Tuntutuliak VVPAT,938856,5,Region IV,,ImagecastX,0,0,0,0
+38-858 Tununak VVPAT,938858,5,Region IV,,ImagecastX,0,0,0,0
+39-932 Savoonga VVPAT,939932,5,Region IV,,ImagecastX,0,0,0,0
+39-934 Scammon Bay VVPAT,939934,5,Region IV,,ImagecastX,0,0,0,0
+39-936 Shaktoolik VVPAT,939936,5,Region IV,,ImagecastX,0,0,0,0
+39-938 Shishmaref VVPAT,939938,5,Region IV,,ImagecastX,0,0,0,0
+39-940 St. Marys VVPAT,939940,5,Region IV,,ImagecastX,0,0,0,0
+39-942 St. Michael VVPAT,939942,5,Region IV,,ImagecastX,0,0,0,0
+39-944 Stebbins VVPAT,939944,5,Region IV,,ImagecastX,0,0,0,0
+39-946 Teller VVPAT,939946,5,Region IV,,ImagecastX,0,0,0,0
+39-948 Unalakleet VVPAT,939948,5,Region IV,,ImagecastX,0,0,0,0
+39-950 Wales VVPAT,939950,5,Region IV,,ImagecastX,0,0,0,0
+39-952 White Mountain VVPAT,939952,5,Region IV,,ImagecastX,0,0,0,0
+40-002 Ambler VVPAT,940002,5,Region IV,,ImagecastX,0,0,0,0
+40-004 Anaktuvuk Pass VVPAT,940004,5,Region IV,,ImagecastX,0,0,0,0
+40-006 Atqasuk VVPAT,940006,5,Region IV,,ImagecastX,0,0,0,0
+40-008 Utqiagvik VVPAT,940008,5,Region IV,,ImagecastX,0,0,0,0
+40-010 Browerville VVPAT,940010,5,Region IV,,ImagecastX,0,0,0,0
+40-012 Buckland VVPAT,940012,5,Region IV,,ImagecastX,0,0,0,0
+40-014 Deering VVPAT,940014,5,Region IV,,ImagecastX,0,0,0,0
+40-016 Kaktovik VVPAT,940016,5,Region IV,,ImagecastX,0,0,0,0
+40-018 Kiana VVPAT,940018,5,Region IV,,ImagecastX,0,0,0,0
+40-020 Kivalina VVPAT,940020,5,Region IV,,ImagecastX,0,0,0,0
+40-022 Kobuk VVPAT,940022,5,Region IV,,ImagecastX,0,0,0,0
+40-024 Kotzebue VVPAT,940024,5,Region IV,,ImagecastX,0,0,0,0
+40-026 Noatak VVPAT,940026,5,Region IV,,ImagecastX,0,0,0,0
+40-028 Noorvik VVPAT,940028,5,Region IV,,ImagecastX,0,0,0,0
+40-030 Nuiqsut VVPAT,940030,5,Region IV,,ImagecastX,0,0,0,0
+40-032 Point Hope VVPAT,940032,5,Region IV,,ImagecastX,0,0,0,0
+40-034 Point Lay VVPAT,940034,5,Region IV,,ImagecastX,0,0,0,0
+40-036 Selawik VVPAT,940036,5,Region IV,,ImagecastX,0,0,0,0
+40-038 Shungnak VVPAT,940038,5,Region IV,,ImagecastX,0,0,0,0
+40-040 Wainwright VVPAT,940040,5,Region IV,,ImagecastX,0,0,0,0
+05-870 Tatitlek VVPAT,905870,1,Region I,,ImagecastX,0,0,0,0
+Director TEST,100,6,Director,,ImagecastX,0,0,0,0
+31-485 Fairbanks No. 3 ICPB,314852,4,Region III,,ImagecastEvolution,12,35,12,35
+35-596 University West ICPB,355962,4,Region III,,ImagecastEvolution,12,35,12,35
+91900 RI Office EV,91910,1,Region I,,ImagecastEvolution,12,35,12,35
+91902 RI SOB EV,91902,1,Region I,,ImagecastEvolution,12,35,12,35
+91906 Home EV,91906,1,Region I,,ImagecastEvolution,12,35,12,35
+RII EV ICP1,92901,2,Region II,,ImagecastEvolution,12,35,12,35
+RII EV ICP2,92902,2,Region II,,ImagecastEvolution,12,35,12,35
+RII EV ICP3,92903,2,Region II,,ImagecastEvolution,12,35,12,35
+RII EV ICP4,92904,2,Region II,,ImagecastEvolution,12,35,12,35
+RIII EV ICP1,93901,4,Region III,,ImagecastEvolution,12,35,12,35
+RIII EV ICP2,93902,4,Region III,,ImagecastEvolution,12,35,12,35
+RV EV ICP1,95901,3,Region V,,ImagecastEvolution,12,35,12,35
+RV EV ICP2,95902,3,Region V,,ImagecastEvolution,12,35,12,35
+RV EV ICP3,95903,3,Region V,,ImagecastEvolution,12,35,12,35
+RI EV ALL HP,91701,1,Region I,,ImagecastX,0,0,0,0
+RII EV ALL HP,921001,2,Region II,,ImagecastX,0,0,0,0
+RIII EV ALL HP,93701,4,Region III,,ImagecastX,0,0,0,0
+RIV EV ALL HP,94701,5,Region IV,,ImagecastX,0,0,0,0
+RV EV ALL HP,95701,3,Region V,,ImagecastX,0,0,0,0
+91900 RI Office EV ALL,91911,1,Region I,,ImagecastEvolution,12,35,12,35
+HD99 Federal only Q ballots,1,6,Director,,ImagecastEvolution,12,35,12,35

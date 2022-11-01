@@ -1,0 +1,1 @@
+2022-10-03 15:41:35,203 Error: "The following 'id_vars' are not present in the DataFrame: ['Char. Limit ', 'Context ', 'EN Source ', 'Referrence / key ', 'row_num']"

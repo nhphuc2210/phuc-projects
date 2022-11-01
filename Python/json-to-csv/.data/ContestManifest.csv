@@ -1,0 +1,64 @@
+Description,Id,ExternalId,DistrictId,VoteFor,NumOfRanks
+U.S. Senator,5,,67,1,0
+U.S. Representative,6,,67,1,0
+Governor / Lt. Governor,7,,1,1,0
+Senate District A,8,,2,1,0
+Senate District B,9,,3,1,0
+Senate District C,10,,4,1,0
+Senate District D,11,,5,1,0
+Senate District E,12,,6,1,0
+Senate District F,13,,7,1,0
+Senate District G,14,,8,1,0
+Senate District H,15,,9,1,0
+Senate District I,16,,10,1,0
+Senate District J,17,,11,1,0
+Senate District K,18,,12,1,0
+Senate District L,19,,13,1,0
+Senate District M,20,,14,1,0
+Senate District N,21,,15,1,0
+Senate District O,22,,16,1,0
+Senate District P,23,,17,1,0
+Senate District Q,24,,18,1,0
+Senate District R,25,,19,1,0
+Senate District S,26,,20,1,0
+House District 1,27,,22,1,0
+House District 2,28,,23,1,0
+House District 3,29,,24,1,0
+House District 4,30,,25,1,0
+House District 5,31,,26,1,0
+House District 6,32,,27,1,0
+House District 7,33,,28,1,0
+House District 8,34,,29,1,0
+House District 9,35,,30,1,0
+House District 10,36,,31,1,0
+House District 11,37,,32,1,0
+House District 12,38,,33,1,0
+House District 13,39,,34,1,0
+House District 14,40,,35,1,0
+House District 15,41,,36,1,0
+House District 16,42,,37,1,0
+House District 17,43,,38,1,0
+House District 18,44,,39,1,0
+House District 19,45,,40,1,0
+House District 20,46,,41,1,0
+House District 21,47,,42,1,0
+House District 22,48,,43,1,0
+House District 23,49,,44,1,0
+House District 24,50,,45,1,0
+House District 25,51,,46,1,0
+House District 26,52,,47,1,0
+House District 27,53,,48,1,0
+House District 28,54,,49,1,0
+House District 29,55,,50,1,0
+House District 30,56,,51,1,0
+House District 31,57,,52,1,0
+House District 32,58,,53,1,0
+House District 33,59,,54,1,0
+House District 34,60,,55,1,0
+House District 35,61,,56,1,0
+House District 36,62,,57,1,0
+House District 37,63,,58,1,0
+House District 38,64,,59,1,0
+House District 39,65,,60,1,0
+House District 40,66,,61,1,0
+U.S. Representative (Special General),69,,67,1,4

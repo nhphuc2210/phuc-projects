@@ -1,0 +1,2 @@
+git config --global alias.phucpush '!git add . && git commit -a -m "commit" && git push'
+git phucpush

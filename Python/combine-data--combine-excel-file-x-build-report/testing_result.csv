@@ -1,0 +1,520 @@
+Number,Sales Name,2022-06-01,2022-05-01,2022-04-01
+PI0000000150,Banamine transdermal solution (50mg/mL) - 1000 mL,,,4.0
+PI0000000152,Activated Charcoal-Kaolin Oral Paste (Solvet) - 4 L,,1.0,13.0
+PI0000000155,Copper Hoof Treatment - 475mL,6.0,,
+PI0000000157,Meloxicam Oral Suspension Dosing Gun (30mL) -  each,2.0,0.0,
+PI0000000180,Kaolin-Pectin Oral Suspension - 4L,4.0,1.0,
+PI0000000188,Meloxicam Oral Suspension  - 150mL,,,12.0
+PI0000000189,Meloxicam Oral Suspension  - 4L,0.0,,
+PI0000000201,Propylene Glycol 100% (AVL) - 20L,,,-1.0
+PI0000000217,Borgal Injectable Solution - 100 mL,,0.0,
+PI0000000220,Boss Pour On Dosing Gun - 1 each,,,-4.0
+PI0000000250,Circumvent PCV G2 - 100 mL (50 Dose),,50.0,25.0
+PI0000000251,Circumvent PCV G2 - 500 mL (250 Dose),0.0,,7.0
+PI0000000253,Circumvent PCV M G2 -  500 mL (250 Dose),18.0,,
+PI0000000258,Covexin Plus - 100 mL (50 Dose),-1.0,20.0,
+PI0000000259,Covexin Plus - 20 mL (10 Dose),,-9.0,6.0
+PI0000000260,Covexin Plus - 250 mL (125 Dose),,36.0,
+PI0000000261,Depocillin - 500 mL,-31.0,-21.0,-1.0
+PI0000000262,Depocillin - 100 mL,,0.0,
+PI0000000264,Duplocillin LA - 100 mL,1.0,1.0,11.0
+PI0000000265,Duplocillin LA - 250 mL,,-12.0,1.0
+PI0000000266,Duplocillin LA - 500 mL,-1.0,5.0,2.0
+PI0000000286,Estrumate - 50 mL,,1.0,
+PI0000000287,Estrumate - 100 mL,-4.0,-5.0,
+PI0000000288,Estrumate - 20 mL,,,20.0
+PI0000000290,Fertagyl 2 - 20 mL,,90.0,
+PI0000000291,Fertagyl 2 - 100mL,1.0,-5.0,
+PI0000000293,"Folligon - 5,000 IU,  25 mL",5.0,-1.0,
+PI0000000296,Halocur - 490 mL,2.0,4.0,-2.0
+PI0000000302,Metricure (includes catheters) - 10 tubes/box,,,1.0
+PI0000000310,MU-SE Injectable - 250 mL,,,1.0
+PI0000000313,Naquasone Injectable - 100 mL,0.0,1.0,
+PI0000000316,Nasalgen IP Disposable Cannulas - Bag of 10,7.0,2.0,7.0
+PI0000000339,Nuflor Injectable - 100 mL,0.0,,
+PI0000000343,Once PMH IN - 20 mL (10 Dose),-17.0,-17.0,10.0
+PI0000000353,Resflor - 100 mL,2.0,2.0,2.0
+PI0000000354,Resflor - 500 mL,3.0,2.0,3.0
+PI0000000355,Resflor Bottle Warmer for 250ml vials,,,1.0
+PI0000000358,Revalor Universal Implanting Tool,5.0,,
+PI0000000359,Revalor-100 - per implant,,,4000.0
+PI0000000360,Revalor-200 - per implant,200.0,,
+PI0000000361,Revalor-G - per implant,,,320.0
+PI0000000364,Revalor-XS - per implant,1670.0,870.0,1370.0
+PI0000000365,P.G. 600 - 5 x 1 ds (5 mL),9.0,0.0,
+PI0000000366,Paracillin SP - 1000 g + 1 Ltr WCM Solution,,,4.0
+PI0000000369,Planate - 50mL,0.0,,
+PI0000000370,Porcilis Ileitis - 500 mL (250 Dose),0.0,,5.0
+PI0000000371,Porcilis Ileitis - 100 mL (50 Dose),-25.0,25.0,25.0
+PI0000000373,Prestige 5 + WNV - 1 mL (single dose),20.0,,10.0
+PI0000000374,ProSystem RCE - 20 mL (10 Dose),86.0,,13.0
+PI0000000375,ProSystem RCE - 50 mL (25 Dose),,0.0,
+PI0000000376,Resflor - 250 mL,,0.0,
+PI0000000380,Safe-Guard Premix 20% - 1 kg (2 x 500 g),,,2.0
+PI0000000381,Safe-Guard Premix 20% - 5 kg,-2.0,-2.0,
+PI0000000382,Safe-Guard Suspension 10% - 3.785 L,1.0,1.0,2.0
+PI0000000383,Safe-Guard Suspension 10% - 500 mL,,1.0,
+PI0000000384,Safe-Guard paste syringe 10% - 25 g tube,,,30.0
+PI0000000385,Tasvax 8 - 100 mL (25 Dose),14.0,1.0,7.0
+PI0000000386,Tasvax 8 - 250 mL (62 Dose),,23.0,3.0
+PI0000000387,Tasvax 8 - 50 mL (12 Dose),1.0,-9.0,4.0
+PI0000000388,Tasvax 8 - 500 mL (125 Dose),-11.0,-4.0,-1.0
+PI0000000401,Prestige 2 with Havlogen - 1 mL (single dose),10.0,,
+PI0000000412,Ralgro - per implant,24.0,-288.0,24.0
+PI0000000413,Vision 8 somnus with SPUR  - 50 ds (100 mL),,-3.0,6.0
+PI0000000414,Vision 8 with SPUR  - 10 ds (20 mL),-1.0,-1.0,
+PI0000000415,Vision 8 with SPUR  - 50 ds (100 mL),,,6.0
+PI0000000416,Vision 8 somnus with SPUR - 10 ds (20 mL),,-3.0,24.0
+PI0000000418,Salix - 50 mL,2.0,,
+PI0000000419,Zuprevo - 100 mL,-1.0,-1.0,
+PI0000000427,Vista Once SQ - 10 ds (20 mL),,-10.0,4.0
+PI0000000428,Vista Once SQ - 50 ds (100 mL),,,2.0
+PI0000000439,Ralgro Implanter Gun,1.0,0.0,
+PI0000000443,Vac-Safe tablets - 100 tablets,,,1.0
+PI0000000450,Safe-Guard/Rheumocam Universal 30mL Oral Applicator,-2.0,-1.0,-2.0
+PI0000000457,Acevet 25 Injectable - 100 mL,,-1.0,-1.0
+PI0000000463,Veto-Mist II - 170 g can,2.0,,
+PI0000000469,Bioestrovet - 100 mL,2.0,-3.0,36.0
+PI0000000470,Bioestrovet - 20 mL,,0.0,
+PI0000000471,Bioestrovet - 50 mL,,-3.0,1.0
+PI0000000486,Fertiline - 20mL,,0.0,2.0
+PI0000000487,Fertiline - 50mL,47.0,35.0,58.0
+PI0000000491,Flunazine - 250 mL,-2.0,,
+PI0000000503,Hydro Vit D3 - 500 mL,,10.0,
+PI0000000511,Lact-R - 1000 mL,,,27.0
+PI0000000544,Oxyto-Sure - 100 mL,-3.0,-3.0,7.0
+PI0000000547,Oxyvet 200 LA - 250 mL,0.0,,
+PI0000000548,Oxyvet 200 LA - 500 mL,14.0,14.0,16.0
+PI0000000575,Calf-Lyte II - 76 g pouch,,96.0,
+PI0000000576,Calf-Lyte II HE -  185 g pouch,3.0,1.0,1.0
+PI0000000577,Biosolve AFC  - 3.8 L,12.0,12.0,16.0
+PI0000000626,Trimidox - 250 mL,,,12.0
+PI0000000627,Trimidox - 500 mL,-17.0,-16.0,3.0
+PI0000000630,"Sterile Water, USP - 500 mL",-12.0,-12.0,
+PI0000000633,Virkon - 10 Kg,,,38.0
+PI0000000634,Virkon S Tablets - 50/jar,1.0,,
+PI0000000635,Virkon - 5 Kg,,,1.0
+PI0000000682,Bimectin Injectable - 500 mL,,0.0,
+PI0000000697,Calcium Borogluconate 23% - 500 mL,,36.0,
+PI0000000699,Calf-Lyte II - 2 Kg,,0.0,
+PI0000000701,Calf-Lyte II HE - 10 Kg,-2.0,-2.0,
+PI0000000705,Ceftiocyl - 250 mL,2.0,8.0,1.0
+PI0000000711,Derma Gel - 100mL,-1.0,,
+PI0000000716,Dexamethasone 2 mg - 100 mL,6.0,-2.0,
+PI0000000717,Dexamethasone 5 mg - 100 mL,-18.0,-15.0,108.0
+PI0000000743,Cefa-Dri - 24 tubes/box,24.0,,
+PI0000000744,Cefa-Dri Pail - 144 tubes/pail,20.0,3.0,1.0
+PI0000000745,Cefa-Lak - 24 tubes/box,61.0,,
+PI0000000749,Dry-Clox - 24 tubes/box,60.0,,2.0
+PI0000000750,Dry-Clox - 144 tubes/pail,,4.0,
+PI0000000756,Express Feedlot - 100 mL (50 ds),,-132.0,
+PI0000000757,Express FP 10 - 10 mL ( 5 ds),,24.0,
+PI0000000758,Express FP 10 - 20 mL (10 ds),,28.0,
+PI0000000760,Express FP5 - 20 mL (10 ds),,-9.0,
+PI0000000761,Express FP5 - 100 mL (50 ds),,-3.0,
+PI0000000769,Metacam 20 mg/mL Solution for Injection - 250 mL,,-1.0,
+PI0000000770,Polyflex - 25 g (100 ml),12.0,,
+PI0000000780,Pyramid FP5 + Presponse SQ - 20 mL (10 ds),,,25.0
+PI0000000781,Pyramid FP5 + Presponse SQ - 100 mL (50 ds),,-9.0,
+PI0000000784,Triangle 5 - 20 mL (10 ds),,0.0,
+PI0000000787,Calvenza EIV/EHV - 2 mL (1 ds),10.0,9.0,12.0
+PI0000000799,Vetera EWT + WNV  - 1 ds,10.0,10.0,12.0
+PI0000000802,Vetera WNV  - 1 ds,10.0,10.0,
+PI0000000844,Bovi-Shield GOLD 5 - 20 mL (10 ds),,,8.0
+PI0000000845,Bovi-Shield GOLD 5 - 100 mL (50 ds),,,1.0
+PI0000000846,Bovi-Shield GOLD FP5 - 20 mL (10 ds),55.0,-12.0,7.0
+PI0000000847,Bovi-Shield GOLD FP5 - 10 mL (5 ds),,,2.0
+PI0000000848,Bovi-Shield GOLD FP5 - 100 mL (50 ds),-1.0,-1.0,-1.0
+PI0000000849,Bovi-Shield GOLD FP5 VL5 - 20 mL (10 ds),,140.0,-2.0
+PI0000000850,Bovi-Shield GOLD FP5 VL5 - 100 mL (50 ds),,8.0,
+PI0000000851,Bovi-Shield GOLD FP5 L5 HB - 20 mL (10 ds),,103.0,
+PI0000000854,Bovi-Shield GOLD One Shot - 20 mL (10 ds),10.0,-14.0,10.0
+PI0000000855,Bovi-Shield GOLD One Shot - 100 mL (50 ds),-5.0,-26.0,-5.0
+PI0000000856,Bovi-Shield IBR - 100 mL (50 ds),,,40.0
+PI0000000861,Calf-Guard - 3 mL (1 ds),,-75.0,
+PI0000000868,CattleMaster GOLD FP5 -  50 mL (25 ds),,,2.0
+PI0000000876,CIDR 1380 - 10/bag,3.0,,
+PI0000000901,Dormosedan Gel 7.6 mg/mL - 3 mL,20.0,,
+PI0000000904,Draxxin - 100 mL,40.0,,
+PI0000000908,Draxxin - 50 mL,10.0,,
+PI0000000916,ER Bac Plus - 100 mL (50 ds),,-30.0,
+PI0000000917,Excede 100 Sterile Suspension (Swine) - 100 mL,,0.0,3.0
+PI0000000918,Excede 200 Sterile Suspension (Cattle) - 100 mL,42.0,60.0,
+PI0000000919,Excenel RTU EZ - 100 mL,99.0,,
+PI0000000922,Excenel Sterile Powder - 4 gm (80 mL),432.0,,
+PI0000000925,Farrowsure B - 50 mL (10 ds),-1.0,,12.0
+PI0000000926,Farrowsure B - 250 mL (50 ds),,0.0,
+PI0000000928,Farrowsure Gold B - 100 mL  (50 ds),,,50.0
+PI0000000952,Hibitane DISINFECTANT - 3.8 L,,,-3.0
+PI0000000953,Inforce 3 - 100 mL (50 ds),20.0,38.0,20.0
+PI0000000954,Inforce 3 - 20 mL (10 ds),19.0,34.0,
+PI0000000955,Inforce 3 - 1 single dose vial,900.0,-50.0,-50.0
+PI0000000956,Inforce - Intranasal Cannula  25/pkg,21.0,-69.0,42.0
+PI0000000958,Lincomix 100 Injectable Solution - 100 mL,300.0,,
+PI0000000969,Lutalyse Sterile Solution - 100 mL,,,16.0
+PI0000000992,ScourGuard 4KC -  20 mL (10 ds),-3.0,-33.0,-3.0
+PI0000000993,ScourGuard 4KC -  100 mL (50 ds),-4.0,-1.0,-1.0
+PI0000000994,Pirsue Sterile Solution - 144 tubes/pail,,1.0,
+PI0000000995,Pirsue Sterile Solution - 12 tubes/box,36.0,80.0,
+PI0000000998,Pinnacle I.N. - single dose,20.0,20.0,20.0
+PI0000000999,Predef 2X Sterile - 100 mL,1.0,-47.0,1.0
+PI0000001000,Quest Plus Gel (moxidectin/praziquantel) - Each,,,40.0
+PI0000001005,Spectramast DC - 12 tubes/box,,,1.0
+PI0000001007,Spectramast LC - 12 tubes/box,-22.0,-20.0,1.0
+PI0000001012,Suvaxyn MH/HPS - 100 mL (50 ds),10.0,10.0,11.0
+PI0000001016,Synovex Phillips SX-10 Gun,24.0,24.0,-6.0
+PI0000001019,Synovex S Implants - per implant,100.0,100.0,
+PI0000001025,Ultrabac 7/Somubac - 50 mL (10 ds),24.0,-52.0,-7.0
+PI0000001027,Ultrabac 7/Somubac - 250 mL (50 ds),34.0,-23.0,-1.0
+PI0000001028,UltraChoice 8 -  20 mL (10 ds),-50.0,-50.0,8.0
+PI0000001033,Valbazen Oral Suspension - 1 L,,0.0,
+PI0000001132,Anafen Injection 100mg/ml (Large Animal) - 100 ml,6.0,0.0,
+PI0000001150,Eprinex Pour-On - 5 L,10.0,,
+PI0000001155,Ivomec Injection - 200 mL,,,1.0
+PI0000001172,J-Vac - 20 mL (10 ds),,-6.0,
+PI0000001175,Tornax-S - 25 L,6.0,6.0,6.0
+PI0000001188,CyLence Pour-On Insecticide 1% - 3 L,-8.0,-8.0,
+PI0000001190,Tempo 20 WP Insecticide - 420 g jar,110.0,110.0,110.0
+PI0000001194,Agita Fly Bait - 1 kg,-3.0,,
+PI0000001229,Implant Disinfectant Tray ,10.0,10.0,
+PI0000001233,Component Extra Wide Implanter - 1 each,-25.0,,
+PI0000001235,Component EZ Needle  - 3 per PKG,19.0,19.0,20.0
+PI0000001236,Component TE-100 Implants with Tylan - 1 implant,-3380.0,1420.0,2620.0
+PI0000001240,Component TE-H Implants with Tylan - 1 implant,1100.0,1100.0,1100.0
+PI0000001245,Kexxtone CRC Administration Tool - Steel,2.0,1.0,
+PI0000001246,Denagard 12.5% Liquid Concentrate - 1 L,-120.0,-120.0,
+PI0000001259,Fusogard - 20 mL (10 ds),-1.0,-2.0,
+PI0000001267,Keto Test (milk) - 20 strips/jar,,-3.0,
+PI0000001268,Kexxtone 32G x 5 Boluses,10.0,2.0,10.0
+PI0000001273,Maxi-Guard Pinkeye Bacterin - 20 mL (10 ds),-12.0,,24.0
+PI0000001274,Micotil Injection - 250 mL,-26.0,-26.0,1.0
+PI0000001290,Ovugel - 52.5 ml (26 ds),2.0,2.0,1.0
+PI0000001348,Allflex Tag Pen - Black,1.0,,
+PI0000001368,Allflex Global Large - (Blank) - YELLOW - 25/pk,,,-1.0
+PI0000001373,Allflex Total Tagger Applicator (Red),-2.0,-2.0,-1.0
+PI0000001374,Allflex Total Tagger (Red) PIN,5.0,,1.0
+PI0000001380,Allflex ATag for Cows - (Blank) - ORANGE - 25/pk,1.0,,
+PI0000001386,Allflex ATag for Cows - (Blank) - WHITE - 25/pk,-1.0,-1.0,1.0
+PI0000001394,Allflex Global Maxi - (Blank) - WHITE - 25/pk,20.0,18.0,
+PI0000001395,Allflex Global Maxi - (Blank) - YELLOW - 25/pk,1.0,1.0,1.0
+PI0000001413,Allflex Small Female Button - (Blank) - YELLOW - 25/pk,4.0,,
+PI0000001416,Allflex Small Male Button - GREEN - 25/pk,,-4.0,
+PI0000001421,Allflex Small Male Button - YELLOW - 25/pk,10.0,,
+PI0000001532,Z Tag Pen,8.0,8.0,2.0
+PI0000001564,Destron Hog Round Two Piece Tag - (Blank) - RED - 25/pk,,,4.0
+PI0000001565,Destron Hog Round Two Piece Tag - (Blank) - WHITE - 25/pk,4.0,,
+PI0000001566,Destron Hog Round Two Piece Tag - (Blank) - YELLOW - 25/pk,0.0,,
+PI0000001579,Ear Notcher - Medium - 1/2 in,,1.0,
+PI0000001581,Kurl Lock Applicator #2,,,1.0
+PI0000001582,Tag Cement (Bull) - 5oz,-1.0,,
+PI0000001587,Marking Crayon (Raidl) - RED - each,,5.0,
+PI0000001589,Marking Crayon (Raidl) - BLUE - each,,5.0,
+PI0000001590,Marking Crayon (Raidl) - GREEN - each,,0.0,
+PI0000001591,Marking Crayon (Raidl) - YELLOW - each,,5.0,
+PI0000001592,Marking Crayon (Raidl) - ORANGE - each,,5.0,
+PI0000001593,Marking Crayon (Raidl) - PURPLE - each,,0.0,
+PI0000001594,Marking Crayon (Raidl) - PINK - each,,0.0,
+PI0000001595,Raidex Marking Spray - 400 mL - RED - each,14.0,14.0,14.0
+PI0000001596,Raidex Marking Spray - 400 mL - BLUE - each,12.0,12.0,24.0
+PI0000001597,Raidex Marking Spray - 400 mL - GREEN - each,-22.0,-22.0,-22.0
+PI0000001599,Quik Shot Marking Paint - 13oz - ORANGE,3.0,3.0,2.0
+PI0000001600,Quik Shot Marking Paint - 13oz - GREEN,-1.0,-1.0,
+PI0000001622,Red - Kote Aerosol (Dr Naylor) - 5 oz,,,1.0
+PI0000001623,Udder Balm (Dr. Naylor) - 13 oz,3.0,,
+PI0000001646,ACANA Puppy Large Breed Dog - 11.4 Kg,,,-1.0
+PI0000001649,Balling Gun - Metal with Plastic Head,,,1.0
+PI0000001652,Bandage - Coflex - Rainbow - 4 in,,,-94.0
+PI0000001655,Callicrate Bander Loop,0.0,,
+PI0000001677,Bucket - Flatback - 20qt  - Green,3.0,3.0,
+PI0000001687,Bucket - Plastic - 8qt - Blue,1.0,1.0,6.0
+PI0000001690,Bucket - Plastic - 8qt - Lime Green,-1.0,-1.0,
+PI0000001696,Bucket - Plastic - 8qt - Teal,1.0,1.0,
+PI0000001698,Bucket - Plastic - 8qt - Yellow,1.0,1.0,
+PI0000001714,Allflex Bottle Top Universal Syringe - BTUBA - 5cc,,0.0,
+PI0000001715,Allflex -  Automatic Reusable Syringe - Bottle Top (2EM-BT) - 2cc,2.0,,
+PI0000001731,Cap Chur - Charges (1-3 ml) - 50/pk,1.0,,
+PI0000001732,Cap Chur - Charges (15 ml) - 50/pk,1.0,,
+PI0000001733,Cap Chur - Charges (4-10 ml) - 50/pk,1.0,,
+PI0000001760,Calf Bottle with Snap On - 2 qt - nipple & bottle,,2.0,
+PI0000001764,Calf Feeder w/ Zipper,,,10.0
+PI0000001771,Cap Chur - Rubber Plunger,19.0,,
+PI0000001773,Cap Chur - Syringe Barrel Only - 20 ml,2.0,,
+PI0000001774,Cap Chur - Syringe Barrel Only - 10 ml,1.0,,
+PI0000001775,Cap Chur - Syringe Barrel Only - 15 ml,2.0,,
+PI0000001776,Cap Chur - Syringe Barrel Only - 1 ml,1.0,,
+PI0000001777,Cap Chur - Syringe Barrel Only - 3 ml,1.0,,
+PI0000001779,Cap Chur - Syringe Barrel Only - 7 ml,1.0,,
+PI0000001780,Cap Chur - Tail Piece,4.0,,
+PI0000001830,Elastrator Rings - 100/pk (green),,-1.0,-1.0
+PI0000001837,Gloves Black Nitrile Powder Free (GlovePlus) - XL - 100s,,,4.0
+PI0000001851,Hog Holder - w/ Steel Cable - 22 in,,0.0,
+PI0000001855,Hoof Disc - Coarse Philipsen - 5 in,,,1.0
+PI0000001864,"Needle DETECTABLE (Ideal) - 16G x 1-1/2"" - Each (CQ 100)",,100.0,
+PI0000001868,"Needle DETECTABLE (Ideal) - 18G x 3/4"" - Each (CQ 100)",,,100.0
+PI0000001870,"Needle DETECTABLE (Ideal) - 20G x 1/2"" - Each (CQ 100)",-199.0,101.0,101.0
+PI0000001873,"Needle Disposable (Ideal) - 16G X 1"" - Each (CQ 100)",200.0,300.0,200.0
+PI0000001881,"Needle Disposable (Monoject) - 14G X 1-1/2"" - Each (CQ 100)",,,1.0
+PI0000001882,"Needle Disposable (Monoject) - 16G X 1"" - Each (CQ 100)",,,504.0
+PI0000001883,"Needle Disposable (Monoject) - 16G X 1-1/2"" - Each (CQ 100)",-693.0,-696.0,-693.0
+PI0000001884,"Needle Disposable (Monoject) - 16G X 3/4"" - Each (CQ 100)",101.0,101.0,201.0
+PI0000001885,"Needle Disposable (Monoject) - 18G X 1"" - Each (CQ 100)",100.0,0.0,200.0
+PI0000001886,"Needle Disposable (Monoject) - 18G X 1-1/2"" - Each (CQ 100)",301.0,301.0,400.0
+PI0000001888,"Needle Disposable (Monoject) - 20G X 1"" - Each (CQ 100)",,,100.0
+PI0000001889,"Needle Disposable Poly Hub (Monoject) - 20G X 1/2"" - Each (CQ 100)",,,200.0
+PI0000001894,"Needle HYPO Stainless Steel - 18G x 3/4"" - 12's",,5.0,
+PI0000001913,DuraProd - Replacement MOTOR Only,-2.0,-2.0,-2.0
+PI0000001914,DuraProd - Rechargeable Battery Pack ONLY,2.0,,
+PI0000001919,Hot-Shot - Handle Complete (Green),11.0,12.0,
+PI0000001921,Hot Shot Battery Pack Wall Charger 110 V,,,2.0
+PI0000001922,Hot Shot Rechargeable Battery Pack,,,3.0
+PI0000001936,Jaguar Bait Chunx - 4 Kg,,,-1.0
+PI0000001940,Magnet Ringed Ferrite 3/4x3 in,-232.0,-232.0,344.0
+PI0000001957,OB Chain Handle Heavy Duty,2.0,,
+PI0000001971,Prima Tech Bottle Mount Syringe - 0.5 ml,,0.0,
+PI0000001986,Allflex Repeater Syringe - 50MR2 - 50 mL,6.0,-1.0,
+PI0000002008,Syringe Disposable LUER LOCK (Monoject) 35 mL - Each (CQ 30),,,1.0
+PI0000002009,Syringe Disposable LUER LOCK (Monoject) 6 mL - Each (CQ 50),,,-52.0
+PI0000002010,Syringe Disposable LUER LOCK (Monoject) 60 mL - Each (CQ 20),1.0,1.0,1.0
+PI0000002015,Syringe Disposable SLIP TIP (Monoject) 12 mL - Each (CQ 80),-150.0,,5.0
+PI0000002018,Syringe Disposable SLIP TIP (Monoject) 6 mL - Each (CQ 50),-55.0,-105.0,-55.0
+PI0000002019,Syringe Disposable SLIP TIP (Monoject) 60 mL - Each (CQ 20),-25.0,-25.0,-25.0
+PI0000002021,Teat Dilator - 40/jar Dr. Naylor,,0.0,
+PI0000002063,Stock Doctor - Complete System,,1.0,
+PI0000002068,Ingelvac CircoFLEX - 100 ml (100 Dose),50.0,-48.0,12.0
+PI0000002069,Ingelvac CircoFLEX - 250 ml (250 Dose),1.0,,1.0
+PI0000002082,First Defense Boluses - 30/pack,,-3.0,2.0
+PI0000002089,Hot Shot Handle - PART - Case Without End Cover - Green **NEW SHAPE**,3.0,3.0,5.0
+PI0000002118,Boot - Purofort PLUS Summer - Size 6 (39),1.0,-2.0,1.0
+PI0000002119,Boot - Purofort PLUS Summer - Size 7 (40),,,-1.0
+PI0000002132,Dairy Drench Mix - 25 kg,-1.0,,
+PI0000002143,Dextrose 50% Injection - 500 ml,-36.0,-12.0,-24.0
+PI0000002165,Bovikalc Bolus - 4 x 192gm (CQ 6),2.0,-16.0,2.0
+PI0000002166,Isopropyl Alcohol 99% (Prof. Preference) - 4 L,,7.0,
+PI0000002184,BD Vacutainer PrecisionGlide Blood Needle - 18g x 1.5in - EACH,,-2000.0,
+PI0000002186,Balling Gun Multi-Dose Plastic Pistol Grip - Adult,1.0,,
+PI0000002188,Disposable Boots (Treader) - XL - 40's,-1.0,-1.0,-1.0
+PI0000002193,Boot - Purofort SUMMER - Size 9 (42),-1.0,-1.0,-1.0
+PI0000002205,Brand - Freeze brand,-1.0,,1.0
+PI0000002209,"Brander Electric - CALF (1/4"" element) - 3""",,,1.0
+PI0000002240,"Gauze Roll Bandage (Jorvet) - 4"" x 10 yds - /roll",-6.0,,
+PI0000002241,"Gauze Sponge (Dermacea) - 4ply - 4"" x 4"" - 200's",-1.0,,
+PI0000002256,"Castrating Knife Newberry (Jorvet) - 10.5""",,,2.0
+PI0000002264,Chlor 100 G Premix - 25 kg,9.0,32.0,3.0
+PI0000002268,Allflex CCIA RFID FDX - 100/box,,,3.0
+PI0000002269,Allflex CCIA RFID FDX Tag - 25's,,13.0,
+PI0000002271,Allflex RFID (1/2 Duplex) HDX Tag - 20's,,3.0,
+PI0000002273,Gleptosil Injector Syringe - Each,-2.0,,
+PI0000002276,Estradiol Benzoate (1mg/mL) - 30 ml,17.0,,
+PI0000002277,Estradiol Benzoate (1mg/mL) - 50 ml,1.0,,
+PI0000002283,Florkem - 100 ml,,0.0,
+PI0000002284,Florkem - 250 ml,,4.0,
+PI0000002286,Cevaxel RTU Sterile Suspension - 250 ml,26.0,-8.0,-8.0
+PI0000002422,Z Tag 1 Piece for Cows - CUSTOM #'ed,1.0,,500.0
+PI0000002433,Braunamid Cassette Suture #3 (BRAUN) - 50m,-3.0,-3.0,-3.0
+PI0000002436,Calfs Choice Total Colostrum 100gm IgG - 470 g,,,720.0
+PI0000002438,CATGUT CHROMIC #1 (SMI) - 75m,,,1.0
+PI0000002447,Catheter Terumo IV Surflo 14G X 2,,,-1.0
+PI0000002448,Catheter Terumo IV Surflo 16G X 2.5,10.0,10.0,10.0
+PI0000002449,Catheter Terumo IV Surflo 16G X 2,-9.0,-9.0,-9.0
+PI0000002450,Charcoal Activated Paste - 300 mL,1.0,25.0,1.0
+PI0000002451,Charcoal Activated Paste - 80 mL,,0.0,
+PI0000002459,ENDOVAC  - Dairy - 100 ml (50dose),,0.0,12.0
+PI0000002463,Freestyle Precision Glucose & Ketone Meter,,-2.0,
+PI0000002477,Headstart Colostrum 60 g IgG - each,1.0,-49.0,1.0
+PI0000002479,Hemostam - 100 mL,,0.0,
+PI0000002483,Iodine Tincture (Stronger) 7% - 500 mL,,,1.0
+PI0000002485,IV Set Simplex Latex Bell - 4 ft,,-5.0,
+PI0000002487,J Jelly  - 4 L,2.0,,
+PI0000002494,Lactated Ringers Injection - 5000ml bag (RAFTER 8),,,-4.0
+PI0000002495,Lidocaine Inj 2% Epinephrine (Lido 2) - 250 mL,,0.0,1.0
+PI0000002502,"Needle BD 16G X 1"" - Each (CQ 100)",,-100.0,
+PI0000002504,"Needle BD 18G X 1-1/2"" - Each (CQ 100)",-400.0,,
+PI0000002505,"Needle BD 20G X 1-1/2"" - Each (CQ 100)",-100.0,,-100.0
+PI0000002506,"Needle BD 20G X 1"" - Each (CQ 100)",2000.0,-1900.0,200.0
+PI0000002513,Phenrex Antibacterial Skin Cleanser - 4 L,0.0,,
+PI0000002516,Revive Extra Bolus - 35's,1.0,-1.0,5.0
+PI0000002519,Scalpel Blades CS #22 Sterile (Kruuse) - Each,100.0,100.0,
+PI0000002521,Scalpel Blades S/S #22 (Kruuse) - Each,-201.0,-201.0,
+PI0000002530,Skin Stapler Disposable Appose 35 Wide - Ea,,-1.0,-1.0
+PI0000002541,Syringe BD 3 mL - LUER LOCK - Each (CQ 200),5.0,5.0,5.0
+PI0000002543,Syringe BD 10 mL - SLIP TIP - Each (CQ 200),,,-1.0
+PI0000002545,Syringe BD 20 mL - SLIP TIP - Each (CQ 48),,,-17.0
+PI0000002546,Syringe BD 3 mL - SLIP TIP - Each (CQ 200),-10.0,,
+PI0000002547,Syringe BD 50 mL - SLIP TIP - Each (CQ 40),-14.0,-56.0,24.0
+PI0000002557,Topvac Bacterin - 50 mL (25 ds),,0.0,
+PI0000002561,Vacutainer Blood Tubes - Red Top 10 ml - each,2.0,,
+PI0000002593,CyLence Applicator II 30 ml - Each,-44.0,-44.0,-43.0
+PI0000002609,Giant Fly Relief Trap - 1 each,24.0,,
+PI0000002627,DrenchMate Part - Service Kit Flapper Valve - Each,,,2.0
+PI0000002753,Lincomycin 44 G Premix - 25 Kg,,6.0,1.0
+PI0000002760,Monensin Premix - 25 Kg,,,5.0
+PI0000002794,Super Chlor 250 Granular Premix - 25 Kg,-4.0,0.0,1.0
+PI0000002809,Tylosin 40 G PMX 25KG,,0.0,3.0
+PI0000002832,Ritchey 2-Piece Engravable Cow Tags - RED/White - 25/pk,-4.0,-4.0,-4.0
+PI0000002854,Copper Sulfate - 25.2% - 22.68 kg,,10.0,
+PI0000002867,Dust Mask #8210 - 20/box,-1.0,,
+PI0000002871,Estrotect Heat Detector - 50/box,6.0,6.0,
+PI0000002888,OB Gloves - ABS 36 in - 100/box,,,1.0
+PI0000002894,Jump Start Protein Supplement - 600 dose kit,0.0,,3.0
+PI0000002942,Blitz Slaughter Pistol Green Cartridges - 50's,0.0,,1.0
+PI0000002943,Blitz Slaughter Pistol Blue Cartridges - 50's,6.0,,
+PI0000002969,Vial - Sterile Plastic - 15 mL,,,12.0
+PI0000002976,Prima Tech Bottle Mount Syringe - 2 ml,,,-5.0
+PI0000002990,Pump ONLY for Gallon Jugs,8.0,,4.0
+PI0000002992,Repiderma - 250 ml,-6.0,-6.0,-6.0
+PI0000002996,Scalpel Handle Plastic - #3 - each,0.0,,
+PI0000002999,Scalpel Blades S/S #10 - Each,99.0,99.0,
+PI0000003017,Feline Hills CD Multicare w/CHICKEN UTH - 17.6 lbs,-1.0,-1.0,
+PI0000003027,Suture Needle 3/8 Circle Cutting # 2 - Each,,,1.0
+PI0000003062,Prima Tech Draw Off Syringe - 5/6 ml,2.0,,
+PI0000003071,Allflex Global Medium - (Blank) - Female Tags Only - 25/pk,,,4.0
+PI0000003076,Destron Litter Max Two Piece Tag - (#'d) - each,500.0,,
+PI0000003082,Ritchey 2-Piece Engravable Cow Tags - #'ed - Each,,,-100.0
+PI0000003084,Temple Original Tag (Blank) - Each,150.0,,400.0
+PI0000003091,Tail Well PART - CUTTER Assembly # 3,,1.0,
+PI0000003106,Tattoo Ink Paste GREEN (Ketchum) - 140g/5 oz,,,1.0
+PI0000003110,Ear Tattooer Model 201R (Ketchum) - 1 each,,,1.0
+PI0000003116,Ear Tatoo Characters (Ketchum) - for Model 201 - each,-5.0,-5.0,31.0
+PI0000003125,AI Sheaths for Insemination - 50/pk,4.0,,2.0
+PI0000003163,Allflex CCIA RFID Small Male Button Tag - 25/pk,,6.0,
+PI0000003171,Milk Culture Quad Plate (Agarsense Bacterial) - 20/pk,2.0,2.0,
+PI0000003210,One Shot BVD - 20 ml (10 Dose),,162.0,
+PI0000003211,One Shot BVD - 100 ml (50 Dose),,,-1.0
+PI0000003228,Sodium Iodide - 250 ml,6.0,,
+PI0000003236,Protector Fly Ear Tags - 20/box,,,16.0
+PI0000003242,Vitamin B12 5000 µg/mL - 30 ml,1.0,1.0,1.0
+PI0000003269,Bovimectin Pour-On - 20 L,-3.0,-6.0,-2.0
+PI0000003276,Z2 Tag 2 Piece for Cows (Blank) - WHITE - 25/pk,-20.0,-20.0,-20.0
+PI0000003290,Vista 5 SQ - 50 ds (100 ml),,0.0,
+PI0000003301,Prevail Concentrate - 4 Ltr,2.0,7.0,
+PI0000003350,P.G. 600 - 5 dose vial,5.0,0.0,
+PI0000003396,WCM Solution - 1 x 1 L,,,-21.0
+PI0000003438,Tattoo - Character - 201 - Each,5.0,5.0,5.0
+PI0000003444,Allflex HOG Tag - NUMBERED - Each,101.0,,
+PI0000003452,Clipper Blade (Oster) - BOTTOM Blade Only,1.0,1.0,
+PI0000003454,Tag Cement (Large Tube) - 10.3 oz,,24.0,
+PI0000003470,Ivomec Drench for Sheep - 2.5 L,1.0,,
+PI0000003476,Prima Tech Bottle Mount Syringe - 1 ml,,0.0,
+PI0000003477,Lockout - 144 tubes/pail,6.0,,1.0
+PI0000003478,Draxxin Cattle Syringe,,,19.0
+PI0000003493,"Cap Chur - Sideport D.O. Noseplug 3/4"" - Each",6.0,,
+PI0000003512,Bucket - Plastic - 5 qt - RED,,,1.0
+PI0000003515,Bucket - Plastic - 5 qt - YELLOW,-1.0,-1.0,-1.0
+PI0000003549,Draxxin Cattle Syringe - EACH,-16.0,-16.0,-16.0
+PI0000003556,Kleenguard A60 Disposable Coveralls XL - each,-24.0,,
+PI0000003557,Boc Loc Brisket Tag - (Numbered) - ASSORTED Color - Each,,36.0,
+PI0000003565,Bovimectin Pour-On GUN - Each,,,-16.0
+PI0000003566,SNAP Sulfamethazine Test - Each,18.0,18.0,
+PI0000003575,AI Lube (ABS) - Gallon,,0.0,2.0
+PI0000003589,Meloxidyl 20 mg/mL - 100 ml,83.0,51.0,17.0
+PI0000003593,AmproMed - 3.8 L,18.0,6.0,
+PI0000003621,VetoSeal Teat Barrier - 144 tubes/pail,,,1.0
+PI0000003624,Tattoo - Metal Hog Slapper Character # 2 - Each,,,20.0
+PI0000003626,Tattoo - Metal Hog Slapper Character # 4 - Each,,,20.0
+PI0000003643,Halagon  - 490 ml,-5.0,1.0,
+PI0000003662,Jaguar Place Packs - 80 x 25 gm,,,1.0
+PI0000003676,Hoof-Sol Spray - 20 L,,,-4.0
+PI0000003710,"Needle - Disposable Poly (Ideal) - 20G X 1/2"" - Each",,200.0,
+PI0000003744,"Hot Stamp Tag Foil (Allfelx) NARROW 2.25"" wide  - Black/roll",,,10.0
+PI0000003759,Mineral Oil Light Grade (Dominion) - 4 L,-8.0,-5.0,-7.0
+PI0000003764,Fostera GOLD PCV MH - 100 ml (50 Dose),,,10.0
+PI0000003769,Syringe BD 20 mL - LUER LOCK - Each (CQ 48),,,10.0
+PI0000003779,Legband Plastic - Custom Numbered - Each,20.0,,
+PI0000003785,Stalosan F - 15 kg,,78.0,
+PI0000003804,Prestige 3 + WNV - 1 x 10 mL,3.0,,
+PI0000003805,Prestige 3 + WNV - 1 mL (single dose),20.0,,
+PI0000003818,Azaperone API (Stressnil) - 100 ml,,2.0,
+PI0000003822,Pneu-Dart Gun Model 389 (Cartridge Fired),1.0,,
+PI0000003823,"Pneu-Dart - Aluminum Body - 10 cc Type U 1/2"" - 5/pk",2.0,,
+PI0000003824,"Pneu-Dart - Aluminum Body - 10 cc Type U 3/4"" TRI PORT - 5/pk",,5.0,5.0
+PI0000003829,Pneu-Dart - Charges - GREEN  100's,-1.0,-1.0,-1.0
+PI0000003835,Cal-Boost Calcium Bolus - 209 g bolus - 12/pack,12.0,-6.0,-1.0
+PI0000003839,Dexafer-200 - 100 ml,,0.0,
+PI0000003853,Propylene Glycol 100% USP (Partner) - 20L,1.0,0.0,1.0
+PI0000003868,Cal Mag Plus (DMVet) - 500 ml,-36.0,-14.0,-12.0
+PI0000003878,Synovex LA-F - per implant,,,2000.0
+PI0000003879,Vetonixin (Flunixin 50mg/ml) Sterile Injection - 100 ml,-1.0,-1.0,1.0
+PI0000003885,Synovex LA-G - per implant,7000.0,,
+PI0000003915,Calboro 23% (DMVet) - 500 mL,,,5.0
+PI0000003920,"Needle DETECTABLE (Ideal) - 16G x 5/8"" - Each (CQ 100)",,,2.0
+PI0000003937,Gloves Black Nitrile Powder Free (GlovePlus) - MED - 100s,,,1.0
+PI0000003940,Gloves Latex Powder Free (Gloveworks) - XL - 100s,,,10.0
+PI0000003948,Forceris - 250 ml,,0.0,
+PI0000003951,Fostera Gold PCV MH - 500 ml (250 ds),,,6.0
+PI0000003955,Tri Shield First Defense - 12 syringe(30 ml) / box,,1.0,6.0
+PI0000003959,Gloves Latex Powder Free (Gloveworks) - LARGE - 100s,,,1.0
+PI0000003972,Maprelin XP-10 - 50 ml,2.0,,
+PI0000004011,Clean-Up II Pour-On Insecticide with IGR - 9.5 L,,,1.0
+PI0000004166,"OB Gloves - Breeder Sleeve (Ag-Tek) 36"" - 100's",,,3.0
+PI0000004193,Cat Litter - 40 lb,,-1.0,-1.0
+PI0000004196,Klebsiella Vetovax SRP - 100 ml (50 ds),3.0,0.0,4.0
+PI0000004199,Weaner Calf Plastic (LARGE) - Beige,0.0,,
+PI0000004201,Draxxin 25 (Swine) - 100 ml,0.0,0.0,
+PI0000004208,Autogenous Bacterin (Gallant) - Porcine - 100 ml,-20.0,-20.0,
+PI0000004210,Stalosan BASIC - 15 kg,12.0,,
+PI0000004211,Stalosan DRY - 15 kg,18.0,,10.0
+PI0000004215,ShutOut - 144 tubes/pail,,,4.0
+PI0000004219,Powerfoam S with Gultaraldehyde - 18.9L,6.0,,1.0
+PI0000004221,Salmonella VetoVax SRP - 100 ml (50 ds),,3.0,
+PI0000004228,Micro-Feed Fermentation Supplement for Livestock - 20 kg,2.0,2.0,
+PI0000004229,Syringe Disposable SLIP TIP (Monoject) 1 mL - Each (CQ 100),-10.0,,
+PI0000004238,GFC Swine SOW 1.5 VTM Px Phy - 25 kg (Invoice to come from Swine Health Centre),-59.0,-59.0,-59.0
+PI0000004239,GFC Swine FEEDER 1.0 VTM PX PHY - 25 kg (Invoice to come from Swine Health Centre),-53.0,-53.0,-53.0
+PI0000004244,Allflex - Automatic Reusable Syringe - Bottle Top - 1 mL,,,1.0
+PI0000004256,Scalpel Blades S/S #20 (ALMEDIC) - Each,495.0,495.0,
+PI0000004273,Kexxtone CRC Administration Tool - Hydraulic,-4.0,-2.0,-1.0
+PI0000004274,Gleptosil Injection CLAS (Round Bottle) - 100 ml,200.0,,
+PI0000004275,Gleptosil Injection CLAS (Round Bottle)- 250 ml,,12.0,
+PI0000004284,Dynamint Udder Cream - 500 ml,3.0,,
+PI0000004292,Dextrose 50% (DMVet) - 500 ml,37.0,-96.0,33.0
+PI0000004305,Bovi-Bond XL - Dispensing Gun (210cc) ,1.0,,
+PI0000004315,Thermometer - Digital Premium Kruuse (Celsius or Fahrenheit) - Each,,,1.0
+PI0000004320,Zeleris - 100 ml,,,12.0
+PI0000004321,Zeleris - 250 ml,-21.0,-22.0,-9.0
+PI0000004341,Oxyvet 300 LA - 500 ml,-5.0,-5.0,-5.0
+PI0000004352,Leader 1-Piece Cow Tag WIDE NECK (NUMBERED)-1 Line - per tag,-21.0,255.0,79.0
+PI0000004356,Leader 2-Piece Super Maxi Female (NUMBERED)-3 Line - per tag,13.0,,
+PI0000004361,CALPHOS - 500 ml,2.0,,
+PI0000004369,Disinfecting - Injection System Kit,-3.0,-3.0,-3.0
+PI0000004391,Pracetam 40% O.S. - 5 L,4.0,,
+PI0000004401,Sodium Bicarbonate - 25 KG,,40.0,
+PI0000004402,PRO PLAN Canine Sport Performance - 17 KG,,,1.0
+PI0000004411,Thermometer  Digital Celsius - Rigid Tip,,,-2.0
+PI0000004443,Baytril 5% Injectable/50ml-50 mL bottle,,,-1.0
+PI0000004503,"Needle BD 22G X 1"" - Each (CQ 100)",,,100.0
+PI0000004519,Sulfatrim DS 800mg/160mg - 500/bottle,,0.0,
+PI0000004535,Toltrazuril (750 mg) - 50/bottle,,,4.0
+PI0000004559,"Sterile Water for injection, USP (DMVet) - 500 ml",-13.0,-13.0,
+PI0000004567,Halagon DISPENSER - 1 - 5 ml,2.0,2.0,2.0
+PI0000004575,Eqvalan Gold Paste 7.74gm - Value Pack Tube,-2.0,-2.0,-2.0
+PI0000004596,Scalpel Blades S/S # 12 (Jorvet) - Each,99.0,199.0,
+PI0000004600,Buffalo Booties -  Super Grip Waterproof Boot Covers XL 60 pair,4.0,2.0,
+PI0000004623,BOVILIS Nasalgen 3-PMH IN - 2 ml single dose vial,,550.0,
+PI0000004624,BOVILIS Nasalgen 3-PMH IN - 20 ml (10 ds),-4.0,-3.0,1.0
+PI0000004625,BOVILIS Nasalgen 3-PMH IN - 100 ml (50 ds),,,25.0
+PI0000004631,BOVILIS Vista BVD CFP - 100 ml (50 ds),13.0,,
+PI0000004632,Rheumocam 15 mg/mL oral suspension for cattle - 5 L,,1.0,
+PI0000004633,Rheumocam 15 mg/mL oral suspension for cattle - 1 L,,-12.0,
+PI0000004648,Gloves Exam Nitrile Powder Free Green (Showa ) - X LARGE 100's,,10.0,
+PI0000004652,Cal-Boost Calcium Bolus Applicator - Each,,,1.0
+PI0000004657,DrenchMate Part - Hose ONLY,,,1.0
+PI0000004664,"Needle DETECTABLE (IN-JECT) - 16G x 3/4"" - Each (CQ 100)",-200.0,-200.0,
+PI0000004701,Gloves Exam Nitrile Powder Free Green (Showa) - MEDIUM 100's,1.0,1.0,1.0
+PI0000004725,Disposable Boots (Treader) - JUMBO - 40's,1.0,1.0,1.0
+PI0000004737,Brander Electric - ElToro (Calf) REPAIR Only,,,1.0
+PI0000004785,Calf feeder Pail - Threader Peach Teat Cap ONLY,,,10.0
+PI0000004787,"Pneu-Dart - Aluminum Body - 5 cc Type U 3/4"" TRI PORT - 5/pk",0.0,,
+PI0000004794,"Flex Wrap EZTear - Assorted Colors - 4"" - Each",83.0,88.0,94.0
+PI0000004803,Clean-Up II Pour-On Insecticide with IGR - 1.89 L,,,2.0
+PI0000004805,Science Diet Hairball Control FELINE - 15.5lb (7.02kg),,,1.0
+PI0000004819,Bottle - Plastic with Flip Top 16oz- 1 each,,0.0,1.0
+PI0000004847,Mhyosphere PCV ID - 50 dose,,2.0,
+PI0000004848,Mhyosphere PCV ID - 250 dose,,14.0,
+PI0000004849,Hipradermic 3.0 needle free device - 1 each,,3.0,
+PI0000004858,VitaFerst-Care Oral Supplement - 250 ml,,,2.0
+PI0000004899,Disinfection mat 85 x 60 x 3 cm - Each,,,2.0
+PI0000004916,Hipradermic Rinsing Fluid 10 x 15ml,1.0,,
+PI0000004925,Leader 2-Piece Large Female (NUMBERED) - 3 Line - per tag,,50.0,
+PI0000004944,ShuBee SuperBee Shoe Covers - 80's (40 Pair),6.0,,
+PI0000004946,Cap Chur - Syringe Barrel Only - 2 ml,4.0,,
+PI0000004952,Cap Chur - Sideport Small Collar 1 1/8 NMI - Each,2.0,,

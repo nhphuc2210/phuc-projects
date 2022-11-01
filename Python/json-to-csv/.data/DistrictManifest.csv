@@ -1,0 +1,63 @@
+Description,Id,DistrictTypeId,ExternalId
+State of Alaska,67,7b5a5b03-0010-4a5c-a819-1485d50057a9,100
+All But Fed Pcts,1,a6524afe-7799-410f-9a32-295e3b51ecab,100
+Senate A,2,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate B,3,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate C,4,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate D,5,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate E,6,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate F,7,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate G,8,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate H,9,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate I,10,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate J,11,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate K,12,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate L,13,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate M,14,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate N,15,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate O,16,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate P,17,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate Q,18,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate R,19,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+Senate S,20,9ebcb317-0c7d-4b06-83ea-e32c27dec229,100
+House District 1,22,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 2,23,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 3,24,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 4,25,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 5,26,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 6,27,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 7,28,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 8,29,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 9,30,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 10,31,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 11,32,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 12,33,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 13,34,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 14,35,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 15,36,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 16,37,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 17,38,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 18,39,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 19,40,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 20,41,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 21,42,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 22,43,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 23,44,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 24,45,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 25,46,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 26,47,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 27,48,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 28,49,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 29,50,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 30,51,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 31,52,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 32,53,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 33,54,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 34,55,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 35,56,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 36,57,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 37,58,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 38,59,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 39,60,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 40,61,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
+House District 99,62,671ebe1d-ceaa-49a3-917d-e8cab970fc69,110
