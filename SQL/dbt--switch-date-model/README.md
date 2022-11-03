@@ -28,6 +28,9 @@ https://github.com/fivetran/dbt_quickbooks/blob/v0.5.3/models/intermediate/int_q
 
 https://github.com/fivetran/dbt_quickbooks/blob/v0.5.3/models/intermediate/int_quickbooks__general_ledger_balances.sql
 
+DBT Login : https://cloud.getdbt.com/login/
+
+BigQuery Cloud : 
 <br />
 
 <br />

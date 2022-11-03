@@ -22,10 +22,14 @@ created_time | user_id | discriptions
 
 Bigquery : https://console.cloud.google.com/bigquery?authuser=1&project=danh-298607&ws=!1m14!1m4!1m3!1sdanh-298607!2sbquxjob_36335bc4_18428e56d03!3sus-central1!1m4!4m3!1sdanh-298607!2sanalytics_151388888!3sevents_20221029!1m3!3m2!1sdanh-298607!2sanalytics_151388888
 
+Data Studio :  https://datastudio.google.com/u/1/reporting/7d99ea4d-6d91-4afd-a06c-b9c04bb072ea/page/OiX5C/edit
+
+
+<br />
+
+<br />
 
 ```sql
-
-
 select
 PARSE_DATE('%Y%m%d', event_date) as grass_date
 , TIMESTAMP_SECONDS(CAST(CAST(event_timestamp as INT64)/1000000 as INT64)) 
